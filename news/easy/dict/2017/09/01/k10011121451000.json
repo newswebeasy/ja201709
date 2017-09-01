@@ -1,0 +1,124 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "１１<ruby><rb>人</rb><rt>にん</rt></ruby>ずつの２チームが、<ruby><rb>手</rb><rt>て</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>わずに、ボールを<ruby><rb>相手</rb><rt>あいて</rt></ruby>のゴールにけりこんで<ruby><rb>得点</rb><rt>とくてん</rt></ruby>をきそう<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。フットボール。",
+          "hyouki": [
+            "サッカー"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "スポーツ<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>の<ruby><rb>世界選手権大会</rb><rt>せかいせんしゅけんたいかい</rt></ruby>の<ruby><rb>優勝者</rb><rt>ゆうしょうしゃ</rt></ruby>にあたえられるカップ。また、そのカップを<ruby><rb>争</rb><rt>あらそ</rt></ruby>う<ruby><rb>大会</rb><rt>たいかい</rt></ruby>。<ruby><rb>W杯</rb><rt>ダブリューはい</rt></ruby>。",
+          "hyouki": [
+            "ワールドカップ"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>や<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をするときの、<ruby><rb>組</rb><rt>くみ</rt></ruby>や<ruby><rb>団体</rb><rt>だんたい</rt></ruby>。",
+          "hyouki": [
+            "チーム"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>前</rb><rt>まえ</rt></ruby>もって<ruby><rb>選</rb><rt>えら</rt></ruby>ぶこと。",
+          "hyouki": [
+            "予選"
+          ]
+        },
+        {
+          "def": "<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>で、<ruby><rb>本大会</rb><rt>ほんたいかい</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>る<ruby><rb>人</rb><rt>ひと</rt></ruby>やチームを<ruby><rb>決</rb><rt>き</rt></ruby>めること。また、その<ruby><rb>試合</rb><rt>しあい</rt></ruby>。",
+          "hyouki": [
+            "予選"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "ものごとを<ruby><rb>二</rb><rt>ふた</rt></ruby>つに<ruby><rb>分</rb><rt>わ</rt></ruby>けたうちの、<ruby><rb>前</rb><rt>まえ</rt></ruby>の<ruby><rb>半分</rb><rt>はんぶん</rt></ruby>。ぜんぱん。",
+          "hyouki": [
+            "前半"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "選手"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、<ruby><rb>投手</rb><rt>とうしゅ</rt></ruby>が<ruby><rb>投</rb><rt>な</rt></ruby>げたボールが、<ruby><rb>打者</rb><rt>だしゃ</rt></ruby>のそばで<ruby><rb>曲</rb><rt>ま</rt></ruby>がること。<ruby><rb>右投</rb><rt>みぎな</rt></ruby>げなら、<ruby><rb>右</rb><rt>みぎ</rt></ruby>に<ruby><rb>曲</rb><rt>ま</rt></ruby>がる。また、そのボール。",
+          "hyouki": [
+            "シュート"
+          ]
+        },
+        {
+          "def": "（サッカー・バスケットボールなどで）ゴールめがけて、ボールをけったり、<ruby><rb>投</rb><rt>な</rt></ruby>げたりすること。",
+          "hyouki": [
+            "シュート"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "あとの<ruby><rb>半分</rb><rt>はんぶん</rt></ruby>。",
+          "hyouki": [
+            "後半"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>勢</rb><rt>いきお</rt></ruby>いが<ruby><rb>強</rb><rt>つよ</rt></ruby>い。",
+          "hyouki": [
+            "激しい"
+          ]
+        },
+        {
+          "def": "ものごとの<ruby><rb>程度</rb><rt>ていど</rt></ruby>がきつい。",
+          "hyouki": [
+            "激しい"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>相手</rb><rt>あいて</rt></ruby>を<ruby><rb>攻</rb><rt>せ</rt></ruby>めること。",
+          "hyouki": [
+            "攻撃"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>欠点</rb><rt>けってん</rt></ruby>や<ruby><rb>誤</rb><rt>あやま</rt></ruby>りを<ruby><rb>責</rb><rt>せ</rt></ruby>めること。",
+          "hyouki": [
+            "攻撃"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>害</rb><rt>がい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けないように、<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐ。",
+          "hyouki": [
+            "守る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>めたとおりにする。",
+          "hyouki": [
+            "守る"
+          ]
+        }
+      ]
+    }
+  }
+}

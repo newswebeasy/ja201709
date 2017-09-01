@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011119661000.mp3", 
+  "title": "熊本県　いじめを早く見つけるためにアプリを使う", 
+  "news_prearranged_time": "2017-09-01 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>熊本県<rt>くまもとけん</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>教育委員会<rt>きょういくいいんかい</rt></ruby></a>は、インターネットを<ruby>使<rt>つか</rt></ruby>った<a href='javascript:void(0)' class='dicWin' id='id-0000'>いじめ</a>などを<ruby>早<rt>はや</rt></ruby>く<ruby>見<rt>み</rt></ruby>つけるために、<ruby>生徒<rt>せいと</rt></ruby>にスマートフォンなどのアプリを<ruby>使<rt>つか</rt></ruby>ってもらうことにしました。", 
+  "news_web_movie_uri": "", 
+  "title_with_ruby": "<ruby>熊本県<rt>くまもとけん</rt></ruby>　いじめを<ruby>早<rt>はや</rt></ruby>く<ruby>見<rt>み</rt></ruby>つけるためにアプリを<ruby>使<rt>つか</rt></ruby>う", 
+  "news_id": "k10011119661000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": false, 
+  "top_display_flag": true, 
+  "top_priority_number": "5", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170830/../20170830/K10011119661_1708302058_1708302103_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}

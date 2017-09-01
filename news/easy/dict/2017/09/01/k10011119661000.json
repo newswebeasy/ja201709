@@ -1,0 +1,30 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>相手</rb><rt>あいて</rt></ruby>が<ruby><rb>困</rb><rt>こま</rt></ruby>ることをしたり、いやがることを<ruby><rb>言</rb><rt>い</rt></ruby>ったりして、<ruby><rb>苦</rb><rt>くる</rt></ruby>しめること。",
+          "hyouki": [
+            "いじめ"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>都道府県</rb><rt>とどうふけん</rt></ruby>や<ruby><rb>市区町村</rb><rt>しくちょうそん</rt></ruby>に<ruby><rb>置</rb><rt>お</rt></ruby>かれていて、<ruby><rb>教育</rb><rt>きょういく</rt></ruby>について<ruby><rb>相談</rb><rt>そうだん</rt></ruby>し、<ruby><rb>計画</rb><rt>けいかく</rt></ruby>を<ruby><rb>立</rb><rt>た</rt></ruby>てる<ruby><rb>委員会</rb><rt>いいんかい</rt></ruby>。",
+          "hyouki": [
+            "教育委員会"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>を<ruby><rb>悪</rb><rt>わる</rt></ruby>く<ruby><rb>言</rb><rt>い</rt></ruby>うこと。また、そのことば。わるぐち。<ruby><rb>悪口</rb><rt>あっこう</rt></ruby>。",
+          "hyouki": [
+            "悪口"
+          ]
+        }
+      ]
+    }
+  }
+}
