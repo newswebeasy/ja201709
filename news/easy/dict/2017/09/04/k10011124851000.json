@@ -1,0 +1,136 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>象徴</rb><rt>しょうちょう</rt></ruby>としてあおがれている<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "天皇"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>天皇</rb><rt>てんのう</rt></ruby>や<ruby><rb>皇后</rb><rt>こうごう</rt></ruby>などを<ruby><rb>敬</rb><rt>うやま</rt></ruby>って<ruby><rb>呼</rb><rt>よ</rt></ruby>ぶことば。",
+          "hyouki": [
+            "陛下"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "その<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>どもの<ruby><rb>子</rb><rt>こ</rt></ruby>ども。",
+          "hyouki": [
+            "孫"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "とがめないで<ruby><rb>済</rb><rt>す</rt></ruby>ませる。",
+          "hyouki": [
+            "許す"
+          ]
+        },
+        {
+          "def": "してもよいと<ruby><rb>認</rb><rt>みと</rt></ruby>める。",
+          "hyouki": [
+            "許す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>聞</rb><rt>き</rt></ruby>き<ruby><rb>入</rb><rt>い</rt></ruby>れる。<ruby><rb>受</rb><rt>う</rt></ruby>け<ruby><rb>入</rb><rt>い</rt></ruby>れる。",
+          "hyouki": [
+            "許す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>気</rb><rt>き</rt></ruby>をゆるめる。<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>解</rb><rt>と</rt></ruby>ける。",
+          "hyouki": [
+            "許す"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などの<ruby><rb>記事</rb><rt>きじ</rt></ruby>を、<ruby><rb>取材</rb><rt>しゅざい</rt></ruby>したり<ruby><rb>書</rb><rt>か</rt></ruby>いたりする<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "記者"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>結婚</rb><rt>けっこん</rt></ruby>を<ruby><rb>申</rb><rt>もう</rt></ruby>しこむこと。",
+          "hyouki": [
+            "プロポーズ"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "すばらしいようす。",
+          "hyouki": [
+            "すてき"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>で<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>熱</rb><rt>ねつ</rt></ruby>と<ruby><rb>光</rb><rt>ひかり</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>している<ruby><rb>星</rb><rt>ほし</rt></ruby>。<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>に<ruby><rb>熱</rb><rt>ねつ</rt></ruby>や<ruby><rb>光</rb><rt>ひかり</rt></ruby>をあたえ、<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>を<ruby><rb>育</rb><rt>そだ</rt></ruby>てる。お<ruby><rb>日</rb><rt>ひ</rt></ruby>さま。",
+          "hyouki": [
+            "太陽"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "にっこり<ruby><rb>笑</rb><rt>わら</rt></ruby>っている<ruby><rb>顔</rb><rt>かお</rt></ruby>。",
+          "hyouki": [
+            "笑顔"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>時間</rb><rt>じかん</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>う。",
+          "hyouki": [
+            "過ごす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>月日</rb><rt>つきひ</rt></ruby>を<ruby><rb>送</rb><rt>おく</rt></ruby>る。<ruby><rb>暮</rb><rt>く</rt></ruby>らす。",
+          "hyouki": [
+            "過ごす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>程度</rb><rt>ていど</rt></ruby>をこす。",
+          "hyouki": [
+            "過ごす"
+          ]
+        },
+        {
+          "def": "そのままにしておく。",
+          "hyouki": [
+            "過ごす"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "のんびりと<ruby><rb>静</rb><rt>しず</rt></ruby>かなようす。",
+          "hyouki": [
+            "穏やか"
+          ]
+        },
+        {
+          "def": "<ruby><rb>心</rb><rt>こころ</rt></ruby>が<ruby><rb>落</rb><rt>お</rt></ruby>ち<ruby><rb>着</rb><rt>つ</rt></ruby>いていて、<ruby><rb>静</rb><rt>しず</rt></ruby>かなようす。",
+          "hyouki": [
+            "穏やか"
+          ]
+        }
+      ]
+    }
+  }
+}

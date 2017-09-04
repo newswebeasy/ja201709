@@ -1,0 +1,134 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>戦</rb><rt>たたか</rt></ruby>いが<ruby><rb>行</rb><rt>おこな</rt></ruby>われる<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。",
+          "hyouki": [
+            "戦場"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>姉</rb><rt>あね</rt></ruby>と<ruby><rb>妹</rb><rt>いもうと</rt></ruby>。<ruby><rb>女</rb><rt>おんな</rt></ruby>のきょうだい。",
+          "hyouki": [
+            "姉妹"
+          ]
+        },
+        {
+          "def": "つながりのあること。",
+          "hyouki": [
+            "姉妹"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>君主</rb><rt>くんしゅ</rt></ruby>。<ruby><rb>王</rb><rt>おう</rt></ruby>。",
+          "hyouki": [
+            "皇帝"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>をする。",
+          "hyouki": [
+            "戦う"
+          ]
+        },
+        {
+          "def": "わざを<ruby><rb>比</rb><rt>くら</rt></ruby>べて、<ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>けを<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "戦う"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>六大州</rb><rt>ろくだいしゅう</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。アジアの<ruby><rb>北西</rb><rt>ほくせい</rt></ruby>、アフリカの<ruby><rb>北</rb><rt>きた</rt></ruby>にある。<ruby><rb>産業</rb><rt>さんぎょう</rt></ruby>や<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>が<ruby><rb>発達</rb><rt>はったつ</rt></ruby>した<ruby><rb>国</rb><rt>くに</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。",
+          "hyouki": [
+            "ヨーロッパ"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>昔</rb><rt>むかし</rt></ruby>、<ruby><rb>武芸</rb><rt>ぶげい</rt></ruby>を<ruby><rb>身</rb><rt>み</rt></ruby>につけて、いくさで<ruby><rb>戦</rb><rt>たたか</rt></ruby>った<ruby><rb>人</rb><rt>ひと</rt></ruby>。さむらい。",
+          "hyouki": [
+            "武士"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>一</rb><rt>ひと</rt></ruby>つだったものが、<ruby><rb>別々</rb><rt>べつべつ</rt></ruby>になる。",
+          "hyouki": [
+            "分かれる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>一</rb><rt>ひと</rt></ruby>つのものが、いくつかに<ruby><rb>区切</rb><rt>くぎ</rt></ruby>られる。",
+          "hyouki": [
+            "分かれる"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>徳川家康</rb><rt>とくがわいえやす</rt></ruby>が、１６０３<ruby><rb>年</rb><rt>ねん</rt></ruby>に<ruby><rb>江戸</rb><rt>えど</rt></ruby>に<ruby><rb>幕府</rb><rt>ばくふ</rt></ruby>を<ruby><rb>開</rb><rt>ひら</rt></ruby>いてから、１８６７<ruby><rb>年</rb><rt>ねん</rt></ruby>にほろびるまでの<ruby><rb>約</rb><rt>やく</rt></ruby>２６０<ruby><rb>年間</rb><rt>ねんかん</rt></ruby>。<ruby><rb>鎖国</rb><rt>さこく</rt></ruby>のために<ruby><rb>日本</rb><rt>にっぽん</rt></ruby><ruby><rb>独特</rb><rt>どくとく</rt></ruby>の<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>が<ruby><rb>栄</rb><rt>さか</rt></ruby>えた。「<ruby><rb>徳川時代</rb><rt>とくがわじだい</rt></ruby>」ともいう。",
+          "hyouki": [
+            "江戸時代"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>町</rb><rt>まち</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>う、いちばん<ruby><rb>上</rb><rt>うえ</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "町長"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>に<ruby><rb>使</rb><rt>つか</rt></ruby>う<ruby><rb>道具</rb><rt>どうぐ</rt></ruby>。<ruby><rb>兵器</rb><rt>へいき</rt></ruby>。",
+          "hyouki": [
+            "武器"
+          ]
+        },
+        {
+          "def": "<ruby><rb>相手</rb><rt>あいて</rt></ruby>に<ruby><rb>勝</rb><rt>か</rt></ruby>つための<ruby><rb>道具</rb><rt>どうぐ</rt></ruby>や、<ruby><rb>手</rb><rt>て</rt></ruby>だて。",
+          "hyouki": [
+            "武器"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>自然</rb><rt>しぜん</rt></ruby>や<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>、<ruby><rb>歴史</rb><rt>れきし</rt></ruby>などについての<ruby><rb>資料</rb><rt>しりょう</rt></ruby>を<ruby><rb>集</rb><rt>あつ</rt></ruby>めて、<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>に<ruby><rb>見</rb><rt>み</rt></ruby>せる<ruby><rb>施設</rb><rt>しせつ</rt></ruby>。",
+          "hyouki": [
+            "博物館"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "<ruby><rb>景色</rb><rt>けしき</rt></ruby>のよい<ruby><rb>所</rb><rt>ところ</rt></ruby>や<ruby><rb>名所</rb><rt>めいしょ</rt></ruby>などを<ruby><rb>見物</rb><rt>けんぶつ</rt></ruby>して<ruby><rb>回</rb><rt>まわ</rt></ruby>ること。",
+          "hyouki": [
+            "観光"
+          ]
+        }
+      ],
+      "0012": [
+        {
+          "def": "<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。",
+          "hyouki": [
+            "協力"
+          ]
+        }
+      ]
+    }
+  }
+}

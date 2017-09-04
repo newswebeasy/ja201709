@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10011124851000.mp3", 
+  "title": "天皇陛下の孫の眞子さまと小室圭さんが結婚の約束をする", 
+  "news_prearranged_time": "2017-09-04 15:45:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>天皇<rt>てんのう</rt></ruby></a><a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>陛下<rt>へいか</rt></ruby></a>の<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>孫<rt>まご</rt></ruby></a>の<ruby>眞子<rt>まこ</rt></ruby>さまと<ruby>大学<rt>だいがく</rt></ruby>のときの<ruby>友達<rt>ともだち</rt></ruby>の<ruby>小室<rt>こむろ</rt></ruby><ruby>圭<rt>けい</rt></ruby>さんは、<ruby>３日<rt>みっか</rt></ruby><ruby>午前<rt>ごぜん</rt></ruby>、<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>天皇<rt>てんのう</rt></ruby></a><a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>陛下<rt>へいか</rt></ruby></a>に<ruby>会<rt>あ</rt></ruby>いに<ruby>行<rt>い</rt></ruby>きました。", 
+  "news_web_movie_uri": "k10011124851_201709032127_201709032131.mp4", 
+  "title_with_ruby": "<ruby>天皇<rt>てんのう</rt></ruby><ruby>陛下<rt>へいか</rt></ruby>の<ruby>孫<rt>まご</rt></ruby>の<ruby>眞子<rt>まこ</rt></ruby>さまと<ruby>小室<rt>こむろ</rt></ruby><ruby>圭<rt>けい</rt></ruby>さんが<ruby>結婚<rt>けっこん</rt></ruby>の<ruby>約束<rt>やくそく</rt></ruby>をする", 
+  "news_id": "k10011124851000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "1", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170903/../20170903/K10011124851_1709031812_1709031816_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}
