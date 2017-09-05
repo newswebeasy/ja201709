@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011126061000.mp3", 
+  "title": "車の火事　ドライブレコーダーの電池から火が出た可能性", 
+  "news_prearranged_time": "2017-09-05 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>止<rt>と</rt></ruby>めてあった<ruby>車<rt>くるま</rt></ruby>が<ruby>焼<rt>や</rt></ruby>ける<ruby>火事<rt>かじ</rt></ruby>が２０１５<ruby>年<rt>ねん</rt></ruby>から<ruby>続<rt>つづ</rt></ruby>きました。", 
+  "news_web_movie_uri": "k10011126061_201709041216_201709041228.mp4", 
+  "title_with_ruby": "<ruby>車<rt>くるま</rt></ruby>の<ruby>火事<rt>かじ</rt></ruby>　ドライブレコーダーの<ruby>電池<rt>でんち</rt></ruby>から<ruby>火<rt>ひ</rt></ruby>が<ruby>出<rt>で</rt></ruby>た<ruby>可能性<rt>かのうせい</rt></ruby>", 
+  "news_id": "k10011126061000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "3", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170904/../20170904/K10011126061_1709041216_1709041228_01_03.jpg?utm_int=news_contents_news-main_007", 
+  "news_easy_movie_uri": "''"
+}
