@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011127041000.mp3", 
+  "title": "スマートフォンを使ってコンビニで電気などの料金を払う", 
+  "news_prearranged_time": "2017-09-06 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>三井<rt>みつい</rt></ruby><ruby>住友<rt>すみとも</rt></ruby><ruby>銀行<rt>ぎんこう</rt></ruby>とＮＥＣは、スマートフォンを<ruby>使<rt>つか</rt></ruby>って<a href='javascript:void(0)' class='dicWin' id='id-0000'>コンビニ</a>で<ruby>電気<rt>でんき</rt></ruby>やガスなどの<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>料金<rt>りょうきん</rt></ruby></a>を<ruby>払<rt>はら</rt></ruby>うことができる<ruby>新<rt>あたら</rt></ruby>しい<a href='javascript:void(0)' class='dicWin' id='id-0002'>システム</a>をつくりました。", 
+  "news_web_movie_uri": "k10011127041_201709050443_201709050448.mp4", 
+  "title_with_ruby": "スマートフォンを<ruby>使<rt>つか</rt></ruby>ってコンビニで<ruby>電気<rt>でんき</rt></ruby>などの<ruby>料金<rt>りょうきん</rt></ruby>を<ruby>払<rt>はら</rt></ruby>う", 
+  "news_id": "k10011127041000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "4", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170905/../20170905/K10011127041_1709050443_1709050448_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

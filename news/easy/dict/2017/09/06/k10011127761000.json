@@ -1,0 +1,166 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。",
+          "hyouki": [
+            "イベント"
+          ]
+        },
+        {
+          "def": "<ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。",
+          "hyouki": [
+            "イベント"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>走</rb><rt>はし</rt></ruby>る・<ruby><rb>投</rb><rt>な</rt></ruby>げる・<ruby><rb>跳</rb><rt>と</rt></ruby>ぶなどのスポーツ。トラックとフィールドの<ruby><rb>二種類</rb><rt>にしゅるい</rt></ruby>がある。<ruby><rb>陸上</rb><rt>りくじょう</rt></ruby>。",
+          "hyouki": [
+            "陸上競技"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>男</rb><rt>おとこ</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>。",
+          "hyouki": [
+            "男子"
+          ]
+        },
+        {
+          "def": "おとこ。",
+          "hyouki": [
+            "男子"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>時間</rb><rt>じかん</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。１<ruby><rb>分</rb><rt>ぷん</rt></ruby>の６０<ruby><rb>分</rb><rt>ぶん</rt></ruby>の１。",
+          "hyouki": [
+            "秒"
+          ]
+        },
+        {
+          "def": "<ruby><rb>角度</rb><rt>かくど</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。１<ruby><rb>分</rb><rt>ぷん</rt></ruby>の６０<ruby><rb>分</rb><rt>ぶん</rt></ruby>の１。",
+          "hyouki": [
+            "秒"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "あとのために<ruby><rb>書</rb><rt>か</rt></ruby>きつけておくこと。また、<ruby><rb>書</rb><rt>か</rt></ruby>きつけたもの。",
+          "hyouki": [
+            "記録"
+          ]
+        },
+        {
+          "def": "<ruby><rb>運動競技</rb><rt>うんどうきょうぎ</rt></ruby>などの<ruby><rb>最高</rb><rt>さいこう</rt></ruby>の<ruby><rb>成績</rb><rt>せいせき</rt></ruby>。レコード。",
+          "hyouki": [
+            "記録"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "選手"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>勤</rb><rt>つと</rt></ruby>めや<ruby><rb>役目</rb><rt>やくめ</rt></ruby>から<ruby><rb>退</rb><rt>しりぞ</rt></ruby>く。",
+          "hyouki": [
+            "辞める"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "ゆり<ruby><rb>動</rb><rt>うご</rt></ruby>かす。",
+          "hyouki": [
+            "振る"
+          ]
+        },
+        {
+          "def": "まき<ruby><rb>散</rb><rt>ち</rt></ruby>らす。",
+          "hyouki": [
+            "振る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>仕事</rb><rt>しごと</rt></ruby>などを<ruby><rb>割</rb><rt>わ</rt></ruby>り<ruby><rb>当</rb><rt>あ</rt></ruby>てる。",
+          "hyouki": [
+            "振る"
+          ]
+        },
+        {
+          "def": "つける。",
+          "hyouki": [
+            "振る"
+          ]
+        },
+        {
+          "def": "やめる。<ruby><rb>断</rb><rt>ことわ</rt></ruby>る。",
+          "hyouki": [
+            "振る"
+          ]
+        },
+        {
+          "def": "むだにする。",
+          "hyouki": [
+            "振る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>向</rb><rt>む</rt></ruby>きを<ruby><rb>変</rb><rt>か</rt></ruby>える。",
+          "hyouki": [
+            "振る"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "ちょっとしたことを<ruby><rb>教</rb><rt>おし</rt></ruby>えて<ruby><rb>助</rb><rt>たす</rt></ruby>けること。また、そのことば。<ruby><rb>助言</rb><rt>じょげん</rt></ruby>。",
+          "hyouki": [
+            "アドバイス"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>昔</rb><rt>むかし</rt></ruby>の<ruby><rb>武器</rb><rt>ぶき</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。つるを<ruby><rb>張</rb><rt>は</rt></ruby>り、<ruby><rb>矢</rb><rt>や</rt></ruby>をつがえて<ruby><rb>射</rb><rt>い</rt></ruby>る<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "弓"
+          ]
+        },
+        {
+          "def": "バイオリンやチェロなどをひく<ruby><rb>道具</rb><rt>どうぐ</rt></ruby>。",
+          "hyouki": [
+            "弓"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>写真</rb><rt>しゃしん</rt></ruby>や<ruby><rb>絵</rb><rt>え</rt></ruby>などの<ruby><rb>人物</rb><rt>じんぶつ</rt></ruby>の<ruby><rb>姿勢</rb><rt>しせい</rt></ruby>。",
+          "hyouki": [
+            "ポーズ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>見</rb><rt>み</rt></ruby>せかけ。",
+          "hyouki": [
+            "ポーズ"
+          ]
+        }
+      ]
+    }
+  }
+}

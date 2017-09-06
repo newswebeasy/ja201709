@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011128331000.mp3", 
+  "title": "「ロヒンギャ１２万人がミャンマーから隣の国に逃げている」", 
+  "news_prearranged_time": "2017-09-06 16:55:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p>ミャンマーは<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>仏教<rt>ぶっきょう</rt></ruby></a>を<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>信<rt>しん</rt></ruby>じ</a>ている<ruby>人<rt>ひと</rt></ruby>が<ruby>多<rt>おお</rt></ruby>い<ruby>国<rt>くに</rt></ruby>ですが、ロヒンギャという<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>民族<rt>みんぞく</rt></ruby></a>の<ruby>人<rt>ひと</rt></ruby>たちは<a href='javascript:void(0)' class='dicWin' id='id-0003'>イスラム<ruby>教<rt>きょう</rt></ruby></a>を<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>信<rt>しん</rt></ruby>じ</a>ています。", 
+  "news_web_movie_uri": "", 
+  "title_with_ruby": "「ロヒンギャ１２<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>がミャンマーから<ruby>隣<rt>となり</rt></ruby>の<ruby>国<rt>くに</rt></ruby>に<ruby>逃<rt>に</rt></ruby>げている」", 
+  "news_id": "k10011128331000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": false, 
+  "top_display_flag": true, 
+  "top_priority_number": "1", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170906/../20170906/K10011128331_1709060149_1709060647_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}
