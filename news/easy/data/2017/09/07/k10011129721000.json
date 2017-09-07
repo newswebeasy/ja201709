@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10011129721000.mp3", 
+  "title": "日本航空の飛行機　エンジンの中の羽が２００枚以上壊れる", 
+  "news_prearranged_time": "2017-09-07 16:00:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>５日<rt>いつか</rt></ruby>、<ruby>羽田<rt>はねだ</rt></ruby><ruby>空港<rt>くうこう</rt></ruby>を<ruby>出発<rt>しゅっぱつ</rt></ruby>してニューヨークに<ruby>向<rt>む</rt></ruby>かっていた<ruby>日本航空<rt>にほんこうくう</rt></ruby>のボーイング７７７という<ruby>飛行機<rt>ひこうき</rt></ruby>は、<ruby>飛<rt>と</rt></ruby>んでからすぐあとに、<ruby>左<rt>ひだり</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0000'>エンジン</a>から<ruby>火<rt>ひ</rt></ruby>が<ruby>出<rt>で</rt></ruby>ました。", 
+  "news_web_movie_uri": "k10011129721_201709070514_201709070520.mp4", 
+  "title_with_ruby": "<ruby>日本航空<rt>にほんこうくう</rt></ruby>の<ruby>飛行機<rt>ひこうき</rt></ruby>　エンジンの<ruby>中<rt>なか</rt></ruby>の<ruby>羽<rt>はね</rt></ruby>が２００<ruby>枚<rt>まい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>壊<rt>こわ</rt></ruby>れる", 
+  "news_id": "k10011129721000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "2", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170907/../20170907/K10011129721_1709070514_1709070520_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

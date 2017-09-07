@@ -1,0 +1,196 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "その<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>や<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になる<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>のある<ruby><rb>都市</rb><rt>とし</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>、アメリカのワシントンなど。<ruby><rb>首府</rb><rt>しゅふ</rt></ruby>。",
+          "hyouki": [
+            "首都"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>。",
+          "hyouki": [
+            "州"
+          ]
+        },
+        {
+          "def": "（<ruby><rb>昔</rb><rt>むかし</rt></ruby>の<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>や、<ruby><rb>今</rb><rt>いま</rt></ruby>のアメリカなどで）<ruby><rb>政治</rb><rt>せいじ</rt></ruby>をするつごうで<ruby><rb>分</rb><rt>わ</rt></ruby>けた<ruby><rb>地方</rb><rt>ちほう</rt></ruby>の<ruby><rb>区切</rb><rt>くぎ</rt></ruby>り。",
+          "hyouki": [
+            "州"
+          ]
+        },
+        {
+          "def": "す。<ruby><rb>川</rb><rt>かわ</rt></ruby>などの<ruby><rb>土</rb><rt>つち</rt></ruby>や<ruby><rb>砂</rb><rt>すな</rt></ruby>が<ruby><rb>積</rb><rt>つ</rt></ruby>もってできた<ruby><rb>小</rb><rt>ちい</rt></ruby>さな<ruby><rb>陸地</rb><rt>りくち</rt></ruby>。",
+          "hyouki": [
+            "州"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。",
+          "hyouki": [
+            "政府"
+          ]
+        },
+        {
+          "def": "<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。",
+          "hyouki": [
+            "政府"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>裁判所</rb><rt>さいばんしょ</rt></ruby>に<ruby><rb>願</rb><rt>ねが</rt></ruby>い<ruby><rb>出</rb><rt>で</rt></ruby>て、よい<ruby><rb>悪</rb><rt>わる</rt></ruby>いを<ruby><rb>決</rb><rt>き</rt></ruby>めてもらう。",
+          "hyouki": [
+            "訴える"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>心</rb><rt>こころ</rt></ruby>によびかける。",
+          "hyouki": [
+            "訴える"
+          ]
+        },
+        {
+          "def": "<ruby><rb>不平</rb><rt>ふへい</rt></ruby>や<ruby><rb>痛</rb><rt>いた</rt></ruby>みなどを<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>言</rb><rt>い</rt></ruby>う。",
+          "hyouki": [
+            "訴える"
+          ]
+        },
+        {
+          "def": "あるやり<ruby><rb>方</rb><rt>かた</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>う。",
+          "hyouki": [
+            "訴える"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>父</rb><rt>ちち</rt></ruby>や<ruby><rb>母</rb><rt>はは</rt></ruby>。<ruby><rb>両親</rb><rt>りょうしん</rt></ruby>。",
+          "hyouki": [
+            "親"
+          ]
+        },
+        {
+          "def": "<ruby><rb>子</rb><rt>こ</rt></ruby>や<ruby><rb>卵</rb><rt>たまご</rt></ruby>をうんだもの。",
+          "hyouki": [
+            "親"
+          ]
+        },
+        {
+          "def": "トランプやかるたなどの<ruby><rb>遊</rb><rt>あそ</rt></ruby>びで、カードを<ruby><rb>配</rb><rt>くば</rt></ruby>る<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "親"
+          ]
+        },
+        {
+          "def": "<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>となるもの。<ruby><rb>大</rb><rt>おお</rt></ruby>きいもの。",
+          "hyouki": [
+            "親"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>まりを<ruby><rb>破</rb><rt>やぶ</rt></ruby>ること。",
+          "hyouki": [
+            "違反"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>共和国</rb><rt>きょうわこく</rt></ruby>で、その<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "大統領"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>願</rb><rt>ねが</rt></ruby>い<ruby><rb>出</rb><rt>で</rt></ruby>ていたことを、よいと<ruby><rb>許</rb><rt>ゆる</rt></ruby>すこと。<ruby><rb>許</rb><rt>ゆる</rt></ruby>し。",
+          "hyouki": [
+            "許可"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>が<ruby><rb>成</rb><rt>な</rt></ruby>り<ruby><rb>立</rb><rt>た</rt></ruby>っていく<ruby><rb>上</rb><rt>うえ</rt></ruby>で、いちばんだいじなことを<ruby><rb>決</rb><rt>き</rt></ruby>めた<ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>。",
+          "hyouki": [
+            "憲法"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "あるものとほかのものとの<ruby><rb>間</rb><rt>あいだ</rt></ruby>に<ruby><rb>差</rb><rt>さ</rt></ruby>をつけて、あつかい<ruby><rb>方</rb><rt>かた</rt></ruby>をちがわせること。",
+          "hyouki": [
+            "差別"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>裁判所</rb><rt>さいばんしょ</rt></ruby>に<ruby><rb>願</rb><rt>ねが</rt></ruby>い<ruby><rb>出</rb><rt>で</rt></ruby>て、よい<ruby><rb>悪</rb><rt>わる</rt></ruby>いを<ruby><rb>決</rb><rt>き</rt></ruby>めてもらう。",
+          "hyouki": [
+            "訴える"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>心</rb><rt>こころ</rt></ruby>によびかける。",
+          "hyouki": [
+            "訴える"
+          ]
+        },
+        {
+          "def": "<ruby><rb>不平</rb><rt>ふへい</rt></ruby>や<ruby><rb>痛</rb><rt>いた</rt></ruby>みなどを<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>言</rb><rt>い</rt></ruby>う。",
+          "hyouki": [
+            "訴える"
+          ]
+        },
+        {
+          "def": "あるやり<ruby><rb>方</rb><rt>かた</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>う。",
+          "hyouki": [
+            "訴える"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "<ruby><rb>国民</rb><rt>こくみん</rt></ruby>に<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>議員</rb><rt>ぎいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まって、<ruby><rb>国</rb><rt>くに</rt></ruby>や<ruby><rb>地方</rb><rt>ちほう</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>について<ruby><rb>話</rb><rt>はな</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>い、<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>めをする<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>の<ruby><rb>国会</rb><rt>こっかい</rt></ruby>と、<ruby><rb>都道府県</rb><rt>とどうふけん</rt></ruby>などの<ruby><rb>地方議会</rb><rt>ちほうぎかい</rt></ruby>とがある。",
+          "hyouki": [
+            "議会"
+          ]
+        }
+      ],
+      "0012": [
+        {
+          "def": "もとに<ruby><rb>返</rb><rt>かえ</rt></ruby>す。",
+          "hyouki": [
+            "戻す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>胃</rb><rt>い</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>のものをはく。",
+          "hyouki": [
+            "戻す"
+          ]
+        }
+      ],
+      "0013": [
+        {
+          "def": "その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。",
+          "hyouki": [
+            "可能性"
+          ]
+        }
+      ]
+    }
+  }
+}

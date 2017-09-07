@@ -1,0 +1,138 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>・<ruby><rb>船</rb><rt>ふね</rt></ruby>・<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>などを<ruby><rb>動</rb><rt>うご</rt></ruby>かす<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>り<ruby><rb>出</rb><rt>だ</rt></ruby>す<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>発動機</rb><rt>はつどうき</rt></ruby>。",
+          "hyouki": [
+            "エンジン"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>鳥</rb><rt>とり</rt></ruby>や<ruby><rb>昆虫</rb><rt>こんちゅう</rt></ruby>などのつばさ。",
+          "hyouki": [
+            "羽"
+          ]
+        },
+        {
+          "def": "<ruby><rb>鳥</rb><rt>とり</rt></ruby>の<ruby><rb>体</rb><rt>からだ</rt></ruby>に<ruby><rb>生</rb><rt>は</rt></ruby>えている<ruby><rb>毛</rb><rt>け</rt></ruby>。<ruby><rb>羽毛</rb><rt>うもう</rt></ruby>。",
+          "hyouki": [
+            "羽"
+          ]
+        },
+        {
+          "def": "<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>のつばさ。",
+          "hyouki": [
+            "羽"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>細</rb><rt>こま</rt></ruby>かい。",
+          "hyouki": [
+            "詳しい"
+          ]
+        },
+        {
+          "def": "<ruby><rb>細</rb><rt>こま</rt></ruby>かいことまでよく<ruby><rb>知</rb><rt>し</rt></ruby>っている。",
+          "hyouki": [
+            "詳しい"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>水</rb><rt>みず</rt></ruby>や<ruby><rb>蒸気</rb><rt>じょうき</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>羽根車</rb><rt>はねぐるま</rt></ruby>を<ruby><rb>回転</rb><rt>かいてん</rt></ruby>させ、<ruby><rb>動力</rb><rt>どうりょく</rt></ruby>を<ruby><rb>得</rb><rt>え</rt></ruby>る<ruby><rb>機械</rb><rt>きかい</rt></ruby>。",
+          "hyouki": [
+            "タービン"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "おおうもの。",
+          "hyouki": [
+            "カバー"
+          ]
+        },
+        {
+          "def": "<ruby><rb>足</rb><rt>た</rt></ruby>りないところを、<ruby><rb>補</rb><rt>おぎな</rt></ruby>うこと。",
+          "hyouki": [
+            "カバー"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "くぼんだ<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "穴"
+          ]
+        },
+        {
+          "def": "<ruby><rb>向</rb><rt>む</rt></ruby>こうまでつきぬけている<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。",
+          "hyouki": [
+            "穴"
+          ]
+        },
+        {
+          "def": "<ruby><rb>弱</rb><rt>よわ</rt></ruby>いところ。",
+          "hyouki": [
+            "穴"
+          ]
+        },
+        {
+          "def": "<ruby><rb>損</rb><rt>そん</rt></ruby>。<ruby><rb>不足</rb><rt>ふそく</rt></ruby>。",
+          "hyouki": [
+            "穴"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "（<ruby><rb>空</rb><rt>そら</rt></ruby>を<ruby><rb>飛</rb><rt>と</rt></ruby>ぶための）<ruby><rb>鳥</rb><rt>とり</rt></ruby>の<ruby><rb>羽</rb><rt>はね</rt></ruby>。",
+          "hyouki": [
+            "翼"
+          ]
+        },
+        {
+          "def": "<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>のはね。",
+          "hyouki": [
+            "翼"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>打</rb><rt>う</rt></ruby>ったり<ruby><rb>切</rb><rt>き</rt></ruby>ったりして、<ruby><rb>皮膚</rb><rt>ひふ</rt></ruby>や<ruby><rb>肉</rb><rt>にく</rt></ruby>をいためたところ。",
+          "hyouki": [
+            "傷"
+          ]
+        },
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>のいたんだところ。",
+          "hyouki": [
+            "傷"
+          ]
+        },
+        {
+          "def": "<ruby><rb>悪</rb><rt>わる</rt></ruby>い<ruby><rb>点</rb><rt>てん</rt></ruby>。<ruby><rb>欠点</rb><rt>けってん</rt></ruby>。",
+          "hyouki": [
+            "傷"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>悪</rb><rt>わる</rt></ruby>いところがないかを<ruby><rb>調</rb><rt>しら</rt></ruby>べること。",
+          "hyouki": [
+            "検査"
+          ]
+        }
+      ]
+    }
+  }
+}

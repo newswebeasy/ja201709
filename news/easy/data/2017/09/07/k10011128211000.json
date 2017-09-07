@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011128211000.mp3", 
+  "title": "目に障害がある人を電車のドアまで案内するシステム", 
+  "news_prearranged_time": "2017-09-07 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>駅<rt>えき</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0002'>ホーム</a>から<ruby>人<rt>ひと</rt></ruby>が<a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>線路<rt>せんろ</rt></ruby></a>に<ruby>落<rt>お</rt></ruby>ちないようにするための「ホームドア」の<ruby>中<rt>なか</rt></ruby>には、<a href='javascript:void(0)' class='dicWin' id='id-0004'>ロープ</a>や<a href='javascript:void(0)' class='dicWin' id='id-0005'><ruby>棒<rt>ぼう</rt></ruby></a>を<ruby>使<rt>つか</rt></ruby>った<a href='javascript:void(0)' class='dicWin' id='id-0006'><ruby>柵<rt>さく</rt></ruby></a>のような<ruby>物<rt>もの</rt></ruby>もあります。", 
+  "news_web_movie_uri": "k10011128211_201709060437_201709060438.mp4", 
+  "title_with_ruby": "<ruby>目<rt>め</rt></ruby>に<ruby>障害<rt>しょうがい</rt></ruby>がある<ruby>人<rt>ひと</rt></ruby>を<ruby>電車<rt>でんしゃ</rt></ruby>のドアまで<ruby>案内<rt>あんない</rt></ruby>するシステム", 
+  "news_id": "k10011128211000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "4", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170906/../20170906/K10011128211_1709052229_1709060406_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}
