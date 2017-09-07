@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011126501000.mp3", 
+  "title": "デパートが来年の正月に食べる「おせち料理」を発表", 
+  "news_prearranged_time": "2017-09-05 17:45:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p>デパートが、<ruby>来年<rt>らいねん</rt></ruby>の<ruby>正月<rt>しょうがつ</rt></ruby>に<ruby>食<rt>た</rt></ruby>べる「<a href='javascript:void(0)' class='dicWin' id='id-0000'>おせち<ruby>料理<rt>りょうり</rt></ruby></a>」を<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>発表<rt>はっぴょう</rt></ruby></a>しました。", 
+  "news_web_movie_uri": "", 
+  "title_with_ruby": "デパートが<ruby>来年<rt>らいねん</rt></ruby>の<ruby>正月<rt>しょうがつ</rt></ruby>に<ruby>食<rt>た</rt></ruby>べる「おせち<ruby>料理<rt>りょうり</rt></ruby>」を<ruby>発表<rt>はっぴょう</rt></ruby>", 
+  "news_id": "k10011126501000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": false, 
+  "top_display_flag": true, 
+  "top_priority_number": "6", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170904/../20170904/K10011126501_1709041737_1709041738_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}
