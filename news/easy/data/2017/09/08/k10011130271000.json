@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011130271000.mp3", 
+  "title": "スペインの裁判所「女性はダリの娘ではない」", 
+  "news_prearranged_time": "2017-09-08 16:05:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": false, 
+  "outline_with_ruby": "<p>スペイン<ruby>人<rt>じん</rt></ruby>の<ruby>女性<rt>じょせい</rt></ruby>は、<ruby>自分<rt>じぶん</rt></ruby>は１９８９<ruby>年<rt>ねん</rt></ruby>に<ruby>亡<rt>な</rt></ruby>くなった<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>画家<rt>がか</rt></ruby></a>のサルバドール・ダリの<ruby>娘<rt>むすめ</rt></ruby>だと<ruby>言<rt>い</rt></ruby>って<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>裁判<rt>さいばん</rt></ruby></a>をしました。", 
+  "news_web_movie_uri": "k10011130271_201709071515_201709071520.mp4", 
+  "title_with_ruby": "スペインの<ruby>裁判所<rt>さいばんしょ</rt></ruby>「<ruby>女性<rt>じょせい</rt></ruby>はダリの<ruby>娘<rt>むすめ</rt></ruby>ではない」", 
+  "news_id": "k10011130271000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "3", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170907/../20170907/K10011130271_1709071515_1709071520_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011130691000.mp3", 
+  "title": "セブンーイレブンでベトナムの大学生や留学生が働く", 
+  "news_prearranged_time": "2017-09-08 16:05:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": false, 
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0000'>コンビニ</a>の「セブンーイレブン」が、ベトナムの<ruby>大学生<rt>だいがくせい</rt></ruby>や<ruby>留学生<rt>りゅうがくせい</rt></ruby>に<ruby>働<rt>はたら</rt></ruby>いてもらうため、ベトナムの６つの<ruby>大学<rt>だいがく</rt></ruby>などと<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>協力<rt>きょうりょく</rt></ruby></a>することになりました。", 
+  "news_web_movie_uri": "k10011130691_201709071818_201709071822.mp4", 
+  "title_with_ruby": "セブンーイレブンでベトナムの<ruby>大学生<rt>だいがくせい</rt></ruby>や<ruby>留学生<rt>りゅうがくせい</rt></ruby>が<ruby>働<rt>はたら</rt></ruby>く", 
+  "news_id": "k10011130691000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "2", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170907/../20170907/K10011130691_1709071823_1709071825_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

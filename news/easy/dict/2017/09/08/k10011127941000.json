@@ -1,0 +1,74 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>日本脳炎</rb><rt>にほんのうえん</rt></ruby>やインフルエンザなどの<ruby><rb>病気</rb><rt>びょうき</rt></ruby>を<ruby><rb>起</rb><rt>お</rt></ruby>こす、ふつうの<ruby><rb>顕微鏡</rb><rt>けんびきょう</rt></ruby>では<ruby><rb>見</rb><rt>み</rt></ruby>えないような、<ruby><rb>非常</rb><rt>ひじょう</rt></ruby>に<ruby><rb>小</rb><rt>ちい</rt></ruby>さな<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>。ビールス。",
+          "hyouki": [
+            "ウイルス"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "けがや<ruby><rb>病気</rb><rt>びょうき</rt></ruby>などのために、<ruby><rb>皮膚</rb><rt>ひふ</rt></ruby>の<ruby><rb>一部</rb><rt>いちぶ</rt></ruby>がふくれ<ruby><rb>上</rb><rt>あ</rt></ruby>がる。",
+          "hyouki": [
+            "腫れる"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。",
+          "hyouki": [
+            "結果"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>専門</rb><rt>せんもん</rt></ruby>の<ruby><rb>学問</rb><rt>がくもん</rt></ruby>を、<ruby><rb>深</rb><rt>ふか</rt></ruby>く<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>するためにできている<ruby><rb>研究者</rb><rt>けんきゅうしゃ</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。また、その<ruby><rb>会合</rb><rt>かいごう</rt></ruby>。",
+          "hyouki": [
+            "学会"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>病気</rb><rt>びょうき</rt></ruby>やけがをよくする。",
+          "hyouki": [
+            "治す"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>感染症</rb><rt>かんせんしょう</rt></ruby>のもとになるばいきんなどから<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>薬</rb><rt>くすり</rt></ruby>。これを<ruby><rb>接種</rb><rt>せっしゅ</rt></ruby>して、その<ruby><rb>感染症</rb><rt>かんせんしょう</rt></ruby>にかからないようにする。",
+          "hyouki": [
+            "ワクチン"
+          ]
+        }
+      ]
+    }
+  }
+}

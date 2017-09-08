@@ -1,0 +1,46 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>英語</rb><rt>えいご</rt></ruby>の「コンビニエンスストア」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>食料品</rb><rt>しょくりょうひん</rt></ruby>や<ruby><rb>日用品</rb><rt>にちようひん</rt></ruby>が、<ruby><rb>手軽</rb><rt>てがる</rt></ruby>にいつでも<ruby><rb>買</rb><rt>か</rt></ruby>えるように<ruby><rb>開</rb><rt>ひら</rt></ruby>いている、<ruby><rb>小型</rb><rt>こがた</rt></ruby>のスーパー。",
+          "hyouki": [
+            "コンビニ"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。",
+          "hyouki": [
+            "協力"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>事業</rb><rt>じぎょう</rt></ruby>をやっていくこと。",
+          "hyouki": [
+            "経営"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くする。",
+          "hyouki": [
+            "増やす"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>高等学校</rb><rt>こうとうがっこう</rt></ruby>を<ruby><rb>卒業</rb><rt>そつぎょう</rt></ruby>した<ruby><rb>人</rb><rt>ひと</rt></ruby>に、<ruby><rb>職業</rb><rt>しょくぎょう</rt></ruby>に<ruby><rb>必要</rb><rt>ひつよう</rt></ruby>な<ruby><rb>能力</rb><rt>のうりょく</rt></ruby>を<ruby><rb>育</rb><rt>そだ</rt></ruby>てる<ruby><rb>専門</rb><rt>せんもん</rt></ruby>の<ruby><rb>学校</rb><rt>がっこう</rt></ruby>。",
+          "hyouki": [
+            "専門学校"
+          ]
+        }
+      ]
+    }
+  }
+}

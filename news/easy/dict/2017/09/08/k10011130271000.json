@@ -1,0 +1,128 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>絵</rb><rt>え</rt></ruby>をかくことを<ruby><rb>仕事</rb><rt>しごと</rt></ruby>にしている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>絵</rb><rt>え</rt></ruby>かき。",
+          "hyouki": [
+            "画家"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>裁判所</rb><rt>さいばんしょ</rt></ruby>が、<ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>にもとづいて、それがよいか<ruby><rb>悪</rb><rt>わる</rt></ruby>いかを<ruby><rb>決</rb><rt>き</rt></ruby>めること。",
+          "hyouki": [
+            "裁判"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>赤</rb><rt>あか</rt></ruby>んぼうや<ruby><rb>卵</rb><rt>たまご</rt></ruby>を、<ruby><rb>母親</rb><rt>ははおや</rt></ruby>が<ruby><rb>体</rb><rt>からだ</rt></ruby>から<ruby><rb>出</rb><rt>だ</rt></ruby>す。",
+          "hyouki": [
+            "産む"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>の<ruby><rb>細胞</rb><rt>さいぼう</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にあって、<ruby><rb>遺伝子</rb><rt>いでんし</rt></ruby>を<ruby><rb>構成</rb><rt>こうせい</rt></ruby>する<ruby><rb>物質</rb><rt>ぶっしつ</rt></ruby>。",
+          "hyouki": [
+            "DNA"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>死</rb><rt>し</rt></ruby>んだ<ruby><rb>人</rb><rt>ひと</rt></ruby>や、お<ruby><rb>骨</rb><rt>こつ</rt></ruby>をうめる<ruby><rb>所</rb><rt>ところ</rt></ruby>。また、そのしるし。",
+          "hyouki": [
+            "墓"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>相手</rb><rt>あいて</rt></ruby>に<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>考</rb><rt>かんが</rt></ruby>えや<ruby><rb>仕事</rb><rt>しごと</rt></ruby>などを<ruby><rb>言</rb><rt>い</rt></ruby>いつけること。<ruby><rb>言</rb><rt>い</rt></ruby>いつけ。",
+          "hyouki": [
+            "命令"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "（<ruby><rb>個人</rb><rt>こじん</rt></ruby>や<ruby><rb>団体</rb><rt>だんたい</rt></ruby>の<ruby><rb>持</rb><rt>も</rt></ruby>っている）お<ruby><rb>金</rb><rt>かね</rt></ruby>や<ruby><rb>品物</rb><rt>しなもの</rt></ruby>・<ruby><rb>土地</rb><rt>とち</rt></ruby>・<ruby><rb>技術</rb><rt>ぎじゅつ</rt></ruby>など、<ruby><rb>価値</rb><rt>かち</rt></ruby>のあるもの。<ruby><rb>資産</rb><rt>しさん</rt></ruby>。",
+          "hyouki": [
+            "財産"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>事業</rb><rt>じぎょう</rt></ruby>をやっていくこと。",
+          "hyouki": [
+            "経営"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "お<ruby><rb>金</rb><rt>かね</rt></ruby>もうけのためでなく、おおやけのために、お<ruby><rb>金</rb><rt>かね</rt></ruby>を<ruby><rb>集</rb><rt>あつ</rt></ruby>めて<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>団体</rb><rt>だんたい</rt></ruby>や<ruby><rb>組織</rb><rt>そしき</rt></ruby>。<ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>で<ruby><rb>認</rb><rt>みと</rt></ruby>められたものを、<ruby><rb>財団法人</rb><rt>ざいだんほうじん</rt></ruby>という。",
+          "hyouki": [
+            "財団"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "ものごとを、<ruby><rb>取</rb><rt>と</rt></ruby>りしまること。",
+          "hyouki": [
+            "管理"
+          ]
+        },
+        {
+          "def": "よい<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>に<ruby><rb>保</rb><rt>たも</rt></ruby>つこと。",
+          "hyouki": [
+            "管理"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。",
+          "hyouki": [
+            "可能性"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。",
+          "hyouki": [
+            "結果"
+          ]
+        }
+      ],
+      "0012": [
+        {
+          "def": "やかましいこと。",
+          "hyouki": [
+            "騒ぎ"
+          ]
+        },
+        {
+          "def": "もめごと。",
+          "hyouki": [
+            "騒ぎ"
+          ]
+        },
+        {
+          "def": "そのような<ruby><rb>場合</rb><rt>ばあい</rt></ruby>ではない。",
+          "hyouki": [
+            "騒ぎ"
+          ]
+        }
+      ]
+    }
+  }
+}

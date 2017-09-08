@@ -1,0 +1,76 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "選手"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>勤</rb><rt>つと</rt></ruby>めや<ruby><rb>役目</rb><rt>やくめ</rt></ruby>から<ruby><rb>退</rb><rt>しりぞ</rt></ruby>く。",
+          "hyouki": [
+            "辞める"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>十分</rb><rt>じゅうぶん</rt></ruby>に<ruby><rb>満足</rb><rt>まんぞく</rt></ruby>している<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>。<ruby><rb>幸福</rb><rt>こうふく</rt></ruby>。",
+          "hyouki": [
+            "幸せ"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "インターネット<ruby><rb>上</rb><rt>じょう</rt></ruby>で<ruby><rb>公開</rb><rt>こうかい</rt></ruby>されていて<ruby><rb>読</rb><rt>よ</rt></ruby>み<ruby><rb>手</rb><rt>て</rt></ruby>と<ruby><rb>情報</rb><rt>じょうほう</rt></ruby>のやりとりのできる、<ruby><rb>日記</rb><rt>にっき</rt></ruby>ふうのサイト（ページ）。",
+          "hyouki": [
+            "ブログ"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>成績</rb><rt>せいせき</rt></ruby>などの<ruby><rb>順位</rb><rt>じゅんい</rt></ruby>。<ruby><rb>等級</rb><rt>とうきゅう</rt></ruby>。",
+          "hyouki": [
+            "ランキング"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>勤</rb><rt>つと</rt></ruby>めや<ruby><rb>役目</rb><rt>やくめ</rt></ruby>から<ruby><rb>退</rb><rt>しりぞ</rt></ruby>く。",
+          "hyouki": [
+            "辞める"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などの<ruby><rb>記事</rb><rt>きじ</rt></ruby>を、<ruby><rb>取材</rb><rt>しゅざい</rt></ruby>したり<ruby><rb>書</rb><rt>か</rt></ruby>いたりする<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "記者"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。",
+          "hyouki": [
+            "大会"
+          ]
+        },
+        {
+          "def": "ある<ruby><rb>組織</rb><rt>そしき</rt></ruby>の<ruby><rb>全員</rb><rt>ぜんいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。",
+          "hyouki": [
+            "大会"
+          ]
+        }
+      ]
+    }
+  }
+}
