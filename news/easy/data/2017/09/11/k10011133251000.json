@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10011133251000.mp3", 
+  "title": "１００ｍ　桐生選手が日本人で初めて９秒９８で走る", 
+  "news_prearranged_time": "2017-09-11 15:40:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>東洋<rt>とうよう</rt></ruby><ruby>大学<rt>だいがく</rt></ruby>の４<ruby>年生<rt>ねんせい</rt></ruby>で２１<ruby>歳<rt>さい</rt></ruby>の<ruby>桐生<rt>きりゅう</rt></ruby><ruby>祥秀<rt>よしひで</rt></ruby><a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>選手<rt>せんしゅ</rt></ruby></a>は<ruby>９日<rt>ここのか</rt></ruby>、<ruby>大学生<rt>だいがくせい</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>陸上競技<rt>りくじょうきょうぎ</rt></ruby></a>の<a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>大会<rt>たいかい</rt></ruby></a>の１００ｍ<a href='javascript:void(0)' class='dicWin' id='id-0004'><ruby>決勝<rt>けっしょう</rt></ruby></a>に<ruby>出<rt>で</rt></ruby>ました。", 
+  "news_web_movie_uri": "k10011133251_201709091806_201709091809.mp4", 
+  "title_with_ruby": "１００ｍ　<ruby>桐生<rt>きりゅう</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>が<ruby>日本人<rt>にっぽんじん</rt></ruby>で<ruby>初<rt>はじ</rt></ruby>めて９<ruby>秒<rt>びょう</rt></ruby>９８で<ruby>走<rt>はし</rt></ruby>る", 
+  "news_id": "k10011133251000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "3", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170909/../20170909/K10011133251_1709091806_1709091810_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011134241000.mp3", 
+  "title": "夏が終わって富士山に登る道を閉める", 
+  "news_prearranged_time": "2017-09-11 15:40:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p>これから<ruby>雪<rt>ゆき</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>る<ruby>季節<rt>きせつ</rt></ruby>になるため、<ruby>静岡県<rt>しずおかけん</rt></ruby>と<ruby>山梨県<rt>やまなしけん</rt></ruby>では<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>富士山<rt>ふじさん</rt></ruby></a>に<ruby>登<rt>のぼ</rt></ruby>る４つの<ruby>道<rt>みち</rt></ruby>を<ruby>閉<rt>し</rt></ruby>めました。", 
+  "news_web_movie_uri": "k10011134241_201709101945_201709101946.mp4", 
+  "title_with_ruby": "<ruby>夏<rt>なつ</rt></ruby>が<ruby>終<rt>お</rt></ruby>わって<ruby>富士山<rt>ふじさん</rt></ruby>に<ruby>登<rt>のぼ</rt></ruby>る<ruby>道<rt>みち</rt></ruby>を<ruby>閉<rt>し</rt></ruby>める", 
+  "news_id": "k10011134241000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "5", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170910/../20170910/K10011134241_1709101945_1709101946_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

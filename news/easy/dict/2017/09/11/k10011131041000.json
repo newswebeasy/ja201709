@@ -1,0 +1,74 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>二枚</rb><rt>にまい</rt></ruby>の<ruby><rb>厚手</rb><rt>あつで</rt></ruby>のボール<ruby><rb>紙</rb><rt>がみ</rt></ruby>の<ruby><rb>内側</rb><rt>うちがわ</rt></ruby>に、<ruby><rb>波形</rb><rt>なみがた</rt></ruby>の<ruby><rb>紙</rb><rt>かみ</rt></ruby>をはり<ruby><rb>合</rb><rt>あ</rt></ruby>わせて<ruby><rb>作</rb><rt>つく</rt></ruby>ったもの。",
+          "hyouki": [
+            "段ボール"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>石炭</rb><rt>せきたん</rt></ruby>を<ruby><rb>燃</rb><rt>も</rt></ruby>やして、<ruby><rb>水</rb><rt>みず</rt></ruby>を<ruby><rb>蒸気</rb><rt>じょうき</rt></ruby>にかえ、その<ruby><rb>水蒸気</rb><rt>すいじょうき</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>でピストンを<ruby><rb>動</rb><rt>うご</rt></ruby>かし、<ruby><rb>車輪</rb><rt>しゃりん</rt></ruby>を<ruby><rb>回</rb><rt>まわ</rt></ruby>す<ruby><rb>仕組</rb><rt>しく</rt></ruby>みの<ruby><rb>車</rb><rt>くるま</rt></ruby>。<ruby><rb>汽車</rb><rt>きしゃ</rt></ruby>。<ruby><rb>SL</rb><rt>エスエル</rt></ruby>。",
+          "hyouki": [
+            "蒸気機関車"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>生活</rb><rt>せいかつ</rt></ruby>に<ruby><rb>役立</rb><rt>やくだ</rt></ruby>つ<ruby><rb>品物</rb><rt>しなもの</rt></ruby>で、<ruby><rb>特</rb><rt>とく</rt></ruby>に<ruby><rb>美</rb><rt>うつく</rt></ruby>しく<ruby><rb>作</rb><rt>つく</rt></ruby>られているもの。",
+          "hyouki": [
+            "工芸品"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "メートル<ruby><rb>法</rb><rt>ほう</rt></ruby>で、<ruby><rb>重</rb><rt>おも</rt></ruby>さの<ruby><rb>単位</rb><rt>たんい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。1トンは、１０００キログラム。<ruby><rb>記号</rb><rt>きごう</rt></ruby>は「t」。",
+          "hyouki": [
+            "トン"
+          ]
+        },
+        {
+          "def": "<ruby><rb>船</rb><rt>ふね</rt></ruby>の<ruby><rb>容積</rb><rt>ようせき</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。",
+          "hyouki": [
+            "トン"
+          ]
+        },
+        {
+          "def": "<ruby><rb>貨車</rb><rt>かしゃ</rt></ruby>やトラックの<ruby><rb>容積</rb><rt>ようせき</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。",
+          "hyouki": [
+            "トン"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>をしまっておく<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。",
+          "hyouki": [
+            "倉庫"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>車</rb><rt>くるま</rt></ruby>の<ruby><rb>輪</rb><rt>わ</rt></ruby>。くるま。",
+          "hyouki": [
+            "車輪"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>機械</rb><rt>きかい</rt></ruby>などを<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>立</rb><rt>た</rt></ruby>てている、<ruby><rb>一</rb><rt>ひと</rt></ruby>つ<ruby><rb>一</rb><rt>ひと</rt></ruby>つの<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>の<ruby><rb>品</rb><rt>しな</rt></ruby>。<ruby><rb>部分品</rb><rt>ぶぶんひん</rt></ruby>。",
+          "hyouki": [
+            "部品"
+          ]
+        }
+      ]
+    }
+  }
+}
