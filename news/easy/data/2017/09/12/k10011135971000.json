@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011135971000.mp3", 
+  "title": "アメリカ　大学生がテロや災害のときに役に立つ物を考える", 
+  "news_prearranged_time": "2017-09-12 16:20:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p>９<ruby>月<rt>がつ</rt></ruby>１１<ruby>日<rt>にち</rt></ruby>、アメリカのニューヨークのビルなどに<ruby>飛行機<rt>ひこうき</rt></ruby>が<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>突<rt>つ</rt></ruby>っ<ruby>込<rt>こ</rt></ruby>む</a><a href='javascript:void(0)' class='dicWin' id='id-0000'>テロ</a>が<a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>起<rt>お</rt></ruby>こっ</a>てから１６<ruby>年<rt>ねん</rt></ruby>になりました。", 
+  "news_web_movie_uri": "", 
+  "title_with_ruby": "アメリカ　<ruby>大学生<rt>だいがくせい</rt></ruby>がテロや<ruby>災害<rt>さいがい</rt></ruby>のときに<ruby>役<rt>やく</rt></ruby>に<ruby>立<rt>た</rt></ruby>つ<ruby>物<rt>もの</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>える", 
+  "news_id": "k10011135971000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": false, 
+  "top_display_flag": true, 
+  "top_priority_number": "3", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170912/../20170912/K10011135971_1709120706_1709120708_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}

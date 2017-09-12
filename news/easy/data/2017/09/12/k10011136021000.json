@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10011136021000.mp3", 
+  "title": "国連が北朝鮮への新しい制裁を決める", 
+  "news_prearranged_time": "2017-09-12 16:20:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>北朝鮮<rt>きたちょうせん</rt></ruby>は<ruby>今月<rt>こんげつ</rt></ruby><ruby>３日<rt>みっか</rt></ruby>、６<ruby>回<rt>かい</rt></ruby><ruby>目<rt>め</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>核兵器<rt>かくへいき</rt></ruby></a>の<a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>実験<rt>じっけん</rt></ruby></a>をしました。", 
+  "news_web_movie_uri": "k10011136021_201709121213_201709121216.mp4", 
+  "title_with_ruby": "<ruby>国連<rt>こくれん</rt></ruby>が<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>への<ruby>新<rt>あたら</rt></ruby>しい<ruby>制裁<rt>せいさい</rt></ruby>を<ruby>決<rt>き</rt></ruby>める", 
+  "news_id": "k10011136021000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "1", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170912/../20170912/K10011136021_1709120756_1709120807_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

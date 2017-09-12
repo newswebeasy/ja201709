@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10011134391000.mp3", 
+  "title": "グーグル　来月から日本で「ＡＩスピーカー」を売る", 
+  "news_prearranged_time": "2017-09-12 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p>「ＡＩスピーカー」には、<ruby>人<rt>ひと</rt></ruby>のように<ruby>自分<rt>じぶん</rt></ruby>で<ruby>考<rt>かんが</rt></ruby>えるコンピューターの<ruby>人工知能<rt>じんこうちのう</rt></ruby>が<ruby>入<rt>はい</rt></ruby>っています。", 
+  "news_web_movie_uri": "k10011134391_201709110523_201709110525.mp4", 
+  "title_with_ruby": "グーグル　<ruby>来月<rt>らいげつ</rt></ruby>から<ruby>日本<rt>にっぽん</rt></ruby>で「ＡＩスピーカー」を<ruby>売<rt>う</rt></ruby>る", 
+  "news_id": "k10011134391000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "5", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170911/../20170911/K10011134391_1709110523_1709110525_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

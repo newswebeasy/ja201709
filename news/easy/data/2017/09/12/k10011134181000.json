@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011134181000.mp3", 
+  "title": "走る列車の中で２０匹の子どもの猫と遊ぶイベント", 
+  "news_prearranged_time": "2017-09-12 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>岐阜県<rt>ぎふけん</rt></ruby>と<ruby>三重県<rt>みえけん</rt></ruby>を<ruby>走<rt>はし</rt></ruby>る<ruby>養老鉄道<rt>ようろうてつどう</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>列車<rt>れっしゃ</rt></ruby></a>の<ruby>中<rt>なか</rt></ruby>で、<ruby>子<rt>こ</rt></ruby>どもの<ruby>猫<rt>ねこ</rt></ruby>と<ruby>遊<rt>あそ</rt></ruby>ぶことができる<a href='javascript:void(0)' class='dicWin' id='id-0001'>イベント</a>がありました。", 
+  "news_web_movie_uri": "k10011134181_201709101944_201709101945.mp4", 
+  "title_with_ruby": "<ruby>走<rt>はし</rt></ruby>る<ruby>列車<rt>れっしゃ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で２０<ruby>匹<rt>ぴき</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもの<ruby>猫<rt>ねこ</rt></ruby>と<ruby>遊<rt>あそ</rt></ruby>ぶイベント", 
+  "news_id": "k10011134181000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "4", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170910/../20170910/K10011134181_1709101835_1709101836_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}
