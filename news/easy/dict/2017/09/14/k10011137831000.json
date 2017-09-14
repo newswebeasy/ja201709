@@ -1,0 +1,90 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>共和国</rb><rt>きょうわこく</rt></ruby>で、その<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "大統領"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "ある<ruby><rb>役目</rb><rt>やくめ</rt></ruby>につく<ruby><rb>人</rb><rt>ひと</rt></ruby>を、<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>から<ruby><rb>選</rb><rt>えら</rt></ruby>ぶこと。",
+          "hyouki": [
+            "選挙"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>国民</rb><rt>こくみん</rt></ruby>に<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>議員</rb><rt>ぎいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まって、<ruby><rb>国</rb><rt>くに</rt></ruby>や<ruby><rb>地方</rb><rt>ちほう</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>について<ruby><rb>話</rb><rt>はな</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>い、<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>めをする<ruby><rb>所</rb><rt>ところ</rt></ruby>。<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>の<ruby><rb>国会</rb><rt>こっかい</rt></ruby>と、<ruby><rb>都道府県</rb><rt>とどうふけん</rt></ruby>などの<ruby><rb>地方議会</rb><rt>ちほうぎかい</rt></ruby>とがある。",
+          "hyouki": [
+            "議会"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>会議</rb><rt>かいぎ</rt></ruby>を<ruby><rb>進</rb><rt>すす</rt></ruby>めたり、まとめたりする<ruby><rb>役</rb><rt>やく</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "議長"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>祖先</rb><rt>そせん</rt></ruby>から<ruby><rb>起</rb><rt>お</rt></ruby>こり、<ruby><rb>同</rb><rt>おな</rt></ruby>じことばや<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>つ<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "民族"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>考</rb><rt>かんが</rt></ruby>え・<ruby><rb>気持</rb><rt>きも</rt></ruby>ちなど、<ruby><rb>目</rb><rt>め</rt></ruby>に<ruby><rb>見</rb><rt>み</rt></ruby>えないものを、<ruby><rb>色</rb><rt>いろ</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>・<ruby><rb>形</rb><rt>かたち</rt></ruby>などにたとえて<ruby><rb>表</rb><rt>あらわ</rt></ruby>すこと。また、<ruby><rb>表</rb><rt>あらわ</rt></ruby>したもの。シンボル。",
+          "hyouki": [
+            "象徴"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "つながり。つながりになったもののひとまとまり。",
+          "hyouki": [
+            "系"
+          ]
+        },
+        {
+          "def": "<ruby><rb>血筋</rb><rt>ちすじ</rt></ruby>。",
+          "hyouki": [
+            "系"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "ものごとが<ruby><rb>成</rb><rt>な</rt></ruby>り<ruby><rb>立</rb><rt>た</rt></ruby>つために<ruby><rb>必要</rb><rt>ひつよう</rt></ruby>なことがら。",
+          "hyouki": [
+            "条件"
+          ]
+        },
+        {
+          "def": "あることを<ruby><rb>決</rb><rt>き</rt></ruby>めるのに、<ruby><rb>約束</rb><rt>やくそく</rt></ruby>しておくことがら。",
+          "hyouki": [
+            "条件"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>選挙</rb><rt>せんきょ</rt></ruby>や<ruby><rb>採決</rb><rt>さいけつ</rt></ruby>で、<ruby><rb>選</rb><rt>えら</rt></ruby>びたい<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>名前</rb><rt>なまえ</rt></ruby>や、<ruby><rb>賛成</rb><rt>さんせい</rt></ruby>か<ruby><rb>反対</rb><rt>はんたい</rt></ruby>かを、<ruby><rb>紙</rb><rt>かみ</rt></ruby>に<ruby><rb>書</rb><rt>か</rt></ruby>いて<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。",
+          "hyouki": [
+            "投票"
+          ]
+        }
+      ]
+    }
+  }
+}

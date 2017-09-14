@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011136881000.mp3", 
+  "title": "山形県　長靴を投げて何点取ったか競争するイベント", 
+  "news_prearranged_time": "2017-09-14 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>山形県<rt>やまがたけん</rt></ruby><ruby>尾花沢市<rt>おばなざわし</rt></ruby>で、<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>点数<rt>てんすう</rt></ruby></a>が<ruby>書<rt>か</rt></ruby>いてあるところに<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>長靴<rt>ながぐつ</rt></ruby></a>を<ruby>投<rt>な</rt></ruby>げて、<ruby>何<rt>なん</rt></ruby><ruby>点<rt>てん</rt></ruby><ruby>取<rt>と</rt></ruby>ったか<ruby>競争<rt>きょうそう</rt></ruby>する<a href='javascript:void(0)' class='dicWin' id='id-0001'>イベント</a>がありました。", 
+  "news_web_movie_uri": "k10011136881_201709122132_201709122133.mp4", 
+  "title_with_ruby": "<ruby>山形県<rt>やまがたけん</rt></ruby>　<ruby>長靴<rt>ながぐつ</rt></ruby>を<ruby>投<rt>な</rt></ruby>げて<ruby>何<rt>なん</rt></ruby><ruby>点<rt>てん</rt></ruby><ruby>取<rt>と</rt></ruby>ったか<ruby>競争<rt>きょうそう</rt></ruby>するイベント", 
+  "news_id": "k10011136881000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "5", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170912/../20170912/K10011136881_1709122132_1709122149_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

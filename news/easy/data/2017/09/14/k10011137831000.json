@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011137831000.mp3", 
+  "title": "シンガポールで初めて女性が大統領になる", 
+  "news_prearranged_time": "2017-09-14 16:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": false, 
+  "outline_with_ruby": "<p>シンガポールでは１３<ruby>日<rt>にち</rt></ruby>から<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>大統領<rt>だいとうりょう</rt></ruby></a>を<ruby>選<rt>えら</rt></ruby>ぶ<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>選挙<rt>せんきょ</rt></ruby></a>があって、ハリマ・ヤコブさんが<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>大統領<rt>だいとうりょう</rt></ruby></a>になることが<ruby>決<rt>き</rt></ruby>まりました。", 
+  "news_web_movie_uri": "", 
+  "title_with_ruby": "シンガポールで<ruby>初<rt>はじ</rt></ruby>めて<ruby>女性<rt>じょせい</rt></ruby>が<ruby>大統領<rt>だいとうりょう</rt></ruby>になる", 
+  "news_id": "k10011137831000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": false, 
+  "top_display_flag": true, 
+  "top_priority_number": "3", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170913/../20170913/K10011137831_1709132054_1709132102_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}

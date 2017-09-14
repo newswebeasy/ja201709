@@ -1,0 +1,114 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "ばいきんがついたり、<ruby><rb>毒</rb><rt>どく</rt></ruby>のある<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>を、<ruby><rb>食</rb><rt>た</rt></ruby>べたり<ruby><rb>飲</rb><rt>の</rt></ruby>んだりして<ruby><rb>病気</rb><rt>びょうき</rt></ruby>になること。<ruby><rb>食</rb><rt>しょく</rt></ruby>あたり。",
+          "hyouki": [
+            "食中毒"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>目</rb><rt>め</rt></ruby>に<ruby><rb>見</rb><rt>み</rt></ruby>えない、ごく<ruby><rb>小</rb><rt>ちい</rt></ruby>さい<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>。<ruby><rb>物</rb><rt>もの</rt></ruby>をくさらせたり<ruby><rb>病気</rb><rt>びょうき</rt></ruby>のもとになったりする。バクテリア。",
+          "hyouki": [
+            "菌"
+          ]
+        },
+        {
+          "def": "カビやキノコなどの<ruby><rb>胞子植物</rb><rt>ほうししょくぶつ</rt></ruby>。また、キノコの<ruby><rb>胞子</rb><rt>ほうし</rt></ruby>。",
+          "hyouki": [
+            "菌"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>海</rb><rt>うみ</rt></ruby>や<ruby><rb>川</rb><rt>かわ</rt></ruby>などにすみ、<ruby><rb>体</rb><rt>からだ</rt></ruby>が、<ruby><rb>節</rb><rt>ふし</rt></ruby>のあるかたいからに<ruby><rb>包</rb><rt>つつ</rt></ruby>まれた<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。一〇<ruby><rb>本</rb><rt>ぽん</rt></ruby>の<ruby><rb>足</rb><rt>あし</rt></ruby>と、<ruby><rb>二本</rb><rt>にほん</rt></ruby>の<ruby><rb>長</rb><rt>なが</rt></ruby>いひげがある。",
+          "hyouki": [
+            "海老・",
+            "蝦"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>竹</rb><rt>たけ</rt></ruby>の、<ruby><rb>若</rb><rt>わか</rt></ruby>い<ruby><rb>芽</rb><rt>め</rt></ruby>。<ruby><rb>茶色</rb><rt>ちゃいろ</rt></ruby>の<ruby><rb>皮</rb><rt>かわ</rt></ruby>に<ruby><rb>包</rb><rt>つつ</rt></ruby>まれている。<ruby><rb>食用</rb><rt>しょくよう</rt></ruby>になる。",
+          "hyouki": [
+            "竹の子・",
+            "筍"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "（<ruby><rb>肉</rb><rt>にく</rt></ruby>や<ruby><rb>野菜</rb><rt>やさい</rt></ruby>などを）<ruby><rb>油</rb><rt>あぶら</rt></ruby>をひいたなべでかき<ruby><rb>混</rb><rt>ま</rt></ruby>ぜながら<ruby><rb>熱</rb><rt>ねっ</rt></ruby>する。",
+          "hyouki": [
+            "いためる"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>市</rb><rt>し</rt></ruby>や<ruby><rb>区</rb><rt>く</rt></ruby>などにある、<ruby><rb>住民</rb><rt>じゅうみん</rt></ruby>の<ruby><rb>健康</rb><rt>けんこう</rt></ruby>・<ruby><rb>衛生</rb><rt>えいせい</rt></ruby>・<ruby><rb>栄養</rb><rt>えいよう</rt></ruby>などを<ruby><rb>守</rb><rt>まも</rt></ruby>る<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。",
+          "hyouki": [
+            "保健所"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "ものがくっつく。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "つきそう。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>加</rb><rt>くわ</rt></ruby>わる。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>まる。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>草木</rb><rt>くさき</rt></ruby>が、かれずに<ruby><rb>根</rb><rt>ね</rt></ruby>をおろす。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>感</rb><rt>かん</rt></ruby>じる。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "ある<ruby><rb>値段</rb><rt>ねだん</rt></ruby>になる。",
+          "hyouki": [
+            "付く"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。",
+          "hyouki": [
+            "可能性"
+          ]
+        }
+      ]
+    }
+  }
+}

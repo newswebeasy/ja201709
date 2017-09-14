@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011138251000.mp3", 
+  "title": "Ｏ１５７が見つかった３歳の女の子が亡くなる", 
+  "news_prearranged_time": "2017-09-14 16:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": false, 
+  "outline_with_ruby": "<p>８<ruby>月<rt>がつ</rt></ruby>に<ruby>群馬県<rt>ぐんまけん</rt></ruby>と<ruby>埼玉県<rt>さいたまけん</rt></ruby>にある４つの<ruby>店<rt>みせ</rt></ruby>で、サラダなどを<ruby>買<rt>か</rt></ruby>って<ruby>食<rt>た</rt></ruby>べた２２<ruby>人<rt>にん</rt></ruby>の<ruby>体<rt>からだ</rt></ruby>から<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>食中毒<rt>しょくちゅうどく</rt></ruby></a>の<ruby>原因<rt>げんいん</rt></ruby>になる「Ｏ１５７」という<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>菌<rt>きん</rt></ruby></a>が<ruby>見<rt>み</rt></ruby>つかりました。", 
+  "news_web_movie_uri": "k10011138251_201709140710_201709140712.mp4", 
+  "title_with_ruby": "Ｏ１５７が<ruby>見<rt>み</rt></ruby>つかった３<ruby>歳<rt>さい</rt></ruby>の<ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなる", 
+  "news_id": "k10011138251000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "1", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170914/../20170914/K10011138251_1709140107_1709140112_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}
