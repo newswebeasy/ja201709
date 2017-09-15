@@ -1,0 +1,52 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>急病人</rb><rt>きゅうびょうにん</rt></ruby>やけが<ruby><rb>人</rb><rt>にん</rt></ruby>を、すぐ<ruby><rb>病院</rb><rt>びょういん</rt></ruby>へ<ruby><rb>運</rb><rt>はこ</rt></ruby>ぶ<ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>。<ruby><rb>消防署</rb><rt>しょうぼうしょ</rt></ruby>で<ruby><rb>管理</rb><rt>かんり</rt></ruby>している。",
+          "hyouki": [
+            "救急車"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>危</rb><rt>あぶ</rt></ruby>ないことや、<ruby><rb>苦</rb><rt>くる</rt></ruby>しいことから、<ruby><rb>救</rb><rt>すく</rt></ruby>う。",
+          "hyouki": [
+            "助ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>貸</rb><rt>か</rt></ruby>す。<ruby><rb>手伝</rb><rt>てつだ</rt></ruby>う。",
+          "hyouki": [
+            "助ける"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。",
+          "hyouki": [
+            "協力"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>仕事</rb><rt>しごと</rt></ruby>のつごうで<ruby><rb>決</rb><rt>き</rt></ruby>めた<ruby><rb>一年</rb><rt>いちねん</rt></ruby>の<ruby><rb>期間</rb><rt>きかん</rt></ruby>。ふつう<ruby><rb>四月</rb><rt>しがつ</rt></ruby><ruby><rb>一日</rb><rt>ついたち</rt></ruby>に<ruby><rb>始</rb><rt>はじ</rt></ruby>まり、<ruby><rb>翌年</rb><rt>よくねん</rt></ruby>の<ruby><rb>三月三十一日</rb><rt>さんがつさんじゅういちにち</rt></ruby>に<ruby><rb>終</rb><rt>お</rt></ruby>わる。",
+          "hyouki": [
+            "年度"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>全国</rb><rt>ぜんこく</rt></ruby>を四七に<ruby><rb>分</rb><rt>わ</rt></ruby>けた<ruby><rb>区画</rb><rt>くかく</rt></ruby>。<ruby><rb>東京都</rb><rt>とうきょうと</rt></ruby>・<ruby><rb>北海道</rb><rt>ほっかいどう</rt></ruby>・<ruby><rb>大阪府</rb><rt>おおさかふ</rt></ruby>・<ruby><rb>京都府</rb><rt>きょうとふ</rt></ruby>と、四三の<ruby><rb>県</rb><rt>けん</rt></ruby>。",
+          "hyouki": [
+            "都道府県"
+          ]
+        }
+      ]
+    }
+  }
+}

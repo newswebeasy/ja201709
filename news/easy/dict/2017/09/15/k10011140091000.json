@@ -1,0 +1,126 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "ロケットなどの<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>飛</rb><rt>と</rt></ruby>び、<ruby><rb>誘導</rb><rt>ゆうどう</rt></ruby><ruby><rb>装置</rb><rt>そうち</rt></ruby>によって、<ruby><rb>目標</rb><rt>もくひょう</rt></ruby>をとらえる<ruby><rb>爆弾</rb><rt>ばくだん</rt></ruby>。<ruby><rb>誘導弾</rb><rt>ゆうどうだん</rt></ruby>。",
+          "hyouki": [
+            "ミサイル"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>鉄砲</rb><rt>てっぽう</rt></ruby>のたまやロケットなどを、<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。",
+          "hyouki": [
+            "発射"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>防衛</rb><rt>ぼうえい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>け<ruby><rb>持</rb><rt>も</rt></ruby>ち、<ruby><rb>自衛隊</rb><rt>じえいたい</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>仕切</rb><rt>しき</rt></ruby>る<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。",
+          "hyouki": [
+            "防衛省"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>放</rb><rt>はな</rt></ruby>つ。うつ。",
+          "hyouki": [
+            "発"
+          ]
+        },
+        {
+          "def": "<ruby><rb>出</rb><rt>だ</rt></ruby>す。<ruby><rb>始</rb><rt>はじ</rt></ruby>める。",
+          "hyouki": [
+            "発"
+          ]
+        },
+        {
+          "def": "<ruby><rb>明</rb><rt>あき</rt></ruby>らかになる。",
+          "hyouki": [
+            "発"
+          ]
+        },
+        {
+          "def": "<ruby><rb>開</rb><rt>ひら</rt></ruby>ける。さかんになる。",
+          "hyouki": [
+            "発"
+          ]
+        },
+        {
+          "def": "<ruby><rb>出</rb><rt>で</rt></ruby>かける。たつ。",
+          "hyouki": [
+            "発"
+          ]
+        },
+        {
+          "def": "<ruby><rb>弾丸</rb><rt>だんがん</rt></ruby>などを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。",
+          "hyouki": [
+            "発"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "アジア・オーストラリア・<ruby><rb>南北</rb><rt>なんぼく</rt></ruby>アメリカ・<ruby><rb>南極</rb><rt>なんきょく</rt></ruby>の<ruby><rb>五</rb><rt>いつ</rt></ruby>つの<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>に<ruby><rb>囲</rb><rt>かこ</rt></ruby>まれた、<ruby><rb>世界</rb><rt>せかい</rt></ruby>でいちばん<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>海</rb><rt>うみ</rt></ruby>。",
+          "hyouki": [
+            "太平洋"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>二</rb><rt>ふた</rt></ruby>つの<ruby><rb>点</rb><rt>てん</rt></ruby>を<ruby><rb>結</rb><rt>むす</rt></ruby>ぶ<ruby><rb>直線</rb><rt>ちょくせん</rt></ruby>の<ruby><rb>長</rb><rt>なが</rt></ruby>さ。",
+          "hyouki": [
+            "距離"
+          ]
+        },
+        {
+          "def": "へだたり。<ruby><rb>道</rb><rt>みち</rt></ruby>のり。",
+          "hyouki": [
+            "距離"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>損害</rb><rt>そんがい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けること。また、<ruby><rb>受</rb><rt>う</rt></ruby>けた<ruby><rb>害</rb><rt>がい</rt></ruby>。",
+          "hyouki": [
+            "被害"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。",
+          "hyouki": [
+            "可能性"
+          ]
+        }
+      ]
+    }
+  }
+}

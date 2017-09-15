@@ -1,0 +1,78 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>歌</rb><rt>うた</rt></ruby>を<ruby><rb>歌</rb><rt>うた</rt></ruby>うことを<ruby><rb>仕事</rb><rt>しごと</rt></ruby>にしている<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "歌手"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>二</rb><rt>ふた</rt></ruby>つの<ruby><rb>骨</rb><rt>ほね</rt></ruby>と<ruby><rb>骨</rb><rt>ほね</rt></ruby>とが、<ruby><rb>動</rb><rt>うご</rt></ruby>くようにつながっているところ。",
+          "hyouki": [
+            "関節"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>体</rb><rt>からだ</rt></ruby>を<ruby><rb>動</rb><rt>うご</rt></ruby>かすはたらきをする、<ruby><rb>細</rb><rt>ほそ</rt></ruby>い<ruby><rb>筋</rb><rt>すじ</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まってできているもの。<ruby><rb>骨</rb><rt>ほね</rt></ruby>につながっているものと、<ruby><rb>内臓</rb><rt>ないぞう</rt></ruby>のかべを<ruby><rb>作</rb><rt>つく</rt></ruby>っているものとがある。",
+          "hyouki": [
+            "筋肉"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>穴</rb><rt>あな</rt></ruby>などに<ruby><rb>落</rb><rt>お</rt></ruby>ちる。",
+          "hyouki": [
+            "落ち込む"
+          ]
+        },
+        {
+          "def": "<ruby><rb>周</rb><rt>まわ</rt></ruby>りよりへこむ。",
+          "hyouki": [
+            "落ち込む"
+          ]
+        },
+        {
+          "def": "（<ruby><rb>成績</rb><rt>せいせき</rt></ruby>などが）<ruby><rb>急</rb><rt>きゅう</rt></ruby>に<ruby><rb>下</rb><rt>さ</rt></ruby>がる。",
+          "hyouki": [
+            "落ち込む"
+          ]
+        },
+        {
+          "def": "しずんだ<ruby><rb>気分</rb><rt>きぶん</rt></ruby>になる。",
+          "hyouki": [
+            "落ち込む"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>月</rb><rt>つき</rt></ruby>の<ruby><rb>１１</rb><rt>じゅういち</rt></ruby><ruby><rb>日</rb><rt>にち</rt></ruby>から<ruby><rb>２０日</rb><rt>はつか</rt></ruby>までの<ruby><rb>間</rb><rt>あいだ</rt></ruby>。",
+          "hyouki": [
+            "中旬"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "はなれているものが<ruby><rb>結</rb><rt>むす</rt></ruby>ばれる。",
+          "hyouki": [
+            "つながる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>関係</rb><rt>かんけい</rt></ruby>がある。<ruby><rb>結</rb><rt>むす</rt></ruby>びつく。",
+          "hyouki": [
+            "つながる"
+          ]
+        }
+      ]
+    }
+  }
+}
