@@ -1,0 +1,86 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>長</rb><rt>なが</rt></ruby>く<ruby><rb>生</rb><rt>い</rt></ruby>きること。<ruby><rb>長命</rb><rt>ちょうめい</rt></ruby>。",
+          "hyouki": [
+            "長生き"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>国民</rb><rt>こくみん</rt></ruby>の<ruby><rb>祝日</rb><rt>しゅくじつ</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。お<ruby><rb>年寄</rb><rt>としよ</rt></ruby>りを<ruby><rb>敬</rb><rt>うやま</rt></ruby>い、<ruby><rb>長生</rb><rt>ながい</rt></ruby>きを<ruby><rb>祝</rb><rt>いわ</rt></ruby>う<ruby><rb>日</rb><rt>ひ</rt></ruby>。<ruby><rb>九月</rb><rt>くがつ</rt></ruby>の<ruby><rb>第三</rb><rt>だいさん</rt></ruby><ruby><rb>月曜日</rb><rt>げつようび</rt></ruby>。",
+          "hyouki": [
+            "敬老の日"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>都</rb><rt>と</rt></ruby>・<ruby><rb>道</rb><rt>どう</rt></ruby>・<ruby><rb>府</rb><rt>ふ</rt></ruby>・<ruby><rb>県</rb><rt>けん</rt></ruby>などの<ruby><rb>政治</rb><rt>せいじ</rt></ruby>をとる、いちばん<ruby><rb>上</rb><rt>うえ</rt></ruby>の<ruby><rb>役目</rb><rt>やくめ</rt></ruby>。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "知事"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>三本</rb><rt>さんぼん</rt></ruby>の<ruby><rb>弦</rb><rt>げん</rt></ruby>を<ruby><rb>張</rb><rt>は</rt></ruby>り、ばちではじいて<ruby><rb>鳴</rb><rt>な</rt></ruby>らす<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>楽器</rb><rt>がっき</rt></ruby>。",
+          "hyouki": [
+            "三味線"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>足</rb><rt>た</rt></ruby>して<ruby><rb>一</rb><rt>ひと</rt></ruby>つにする。いっしょにする。",
+          "hyouki": [
+            "合わせる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>同</rb><rt>おな</rt></ruby>じにする。そろえる。",
+          "hyouki": [
+            "合わせる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>同</rb><rt>おな</rt></ruby>じかどうか<ruby><rb>比</rb><rt>くら</rt></ruby>べる。",
+          "hyouki": [
+            "合わせる"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>動</rb><rt>うご</rt></ruby>くようにする。",
+          "hyouki": [
+            "動かす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>位置</rb><rt>いち</rt></ruby>を<ruby><rb>変</rb><rt>か</rt></ruby>える。",
+          "hyouki": [
+            "動かす"
+          ]
+        },
+        {
+          "def": "<ruby><rb>感動</rb><rt>かんどう</rt></ruby>させる。",
+          "hyouki": [
+            "動かす"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "その<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>どもの<ruby><rb>子</rb><rt>こ</rt></ruby>ども。",
+          "hyouki": [
+            "孫"
+          ]
+        }
+      ]
+    }
+  }
+}

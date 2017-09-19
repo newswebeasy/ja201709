@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10011146191000.mp3", 
+  "title": "日本でいちばん長生きの１１７歳の女性をお祝い", 
+  "news_prearranged_time": "2017-09-19 16:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p>１９００<ruby>年<rt>ねん</rt></ruby>に<ruby>生<rt>う</rt></ruby>まれた<ruby>鹿児島県<rt>かごしまけん</rt></ruby>の<ruby>田島<rt>たじま</rt></ruby>ナビさんは１１７<ruby>歳<rt>さい</rt></ruby>で、<ruby>日本<rt>にっぽん</rt></ruby>でいちばん<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>長生<rt>ながい</rt></ruby>き</a>の<ruby>人<rt>ひと</rt></ruby>です。", 
+  "news_web_movie_uri": "k10011146191_201709181935_201709181935.mp4", 
+  "title_with_ruby": "<ruby>日本<rt>にっぽん</rt></ruby>でいちばん<ruby>長生<rt>ながい</rt></ruby>きの１１７<ruby>歳<rt>さい</rt></ruby>の<ruby>女性<rt>じょせい</rt></ruby>をお<ruby>祝<rt>いわ</rt></ruby>い", 
+  "news_id": "k10011146191000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "3", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170918/../20170918/K10011146191_1709181656_1709181657_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}

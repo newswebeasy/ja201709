@@ -1,0 +1,118 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>惑星</rb><rt>わくせい</rt></ruby>の<ruby><rb>１</rb><rt>ひと</rt></ruby>つ。<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>から<ruby><rb>３番</rb><rt>さんばん</rt></ruby>めの<ruby><rb>星</rb><rt>ほし</rt></ruby>で、わたしたちが<ruby><rb>住</rb><rt>す</rt></ruby>んでいる<ruby><rb>天体</rb><rt>てんたい</rt></ruby>。<ruby><rb>自分</rb><rt>じぶん</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>りながら（<ruby><rb>自転</rb><rt>じてん</rt></ruby>）、さらに<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを３６５<ruby><rb>日</rb><rt>にち</rt></ruby>で<ruby><rb>回</rb><rt>まわ</rt></ruby>っている（<ruby><rb>公転</rb><rt>こうてん</rt></ruby>）。",
+          "hyouki": [
+            "地球"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>大気中</rb><rt>たいきちゅう</rt></ruby>の<ruby><rb>二酸化炭素</rb><rt>にさんかたんそ</rt></ruby>（<ruby><rb>CO<span class=\"dic_sub\">2</span></rb><rt>シーオーツー</rt></ruby>）が<ruby><rb>増</rb><rt>ふ</rt></ruby>えて、<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>の<ruby><rb>気温</rb><rt>きおん</rt></ruby>が<ruby><rb>上</rb><rt>あ</rt></ruby>がること。<ruby><rb>南極</rb><rt>なんきょく</rt></ruby>や<ruby><rb>北極</rb><rt>ほっきょく</rt></ruby>の<ruby><rb>氷</rb><rt>こおり</rt></ruby>が<ruby><rb>解</rb><rt>と</rt></ruby>けて<ruby><rb>海面</rb><rt>かいめん</rt></ruby>が<ruby><rb>高</rb><rt>たか</rt></ruby>くなったり、<ruby><rb>農作物</rb><rt>のうさくぶつ</rt></ruby>にひがいが<ruby><rb>出</rb><rt>で</rt></ruby>たりする。",
+          "hyouki": [
+            "地球温暖化"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "ロケットで<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>上</rb><rt>あ</rt></ruby>げ、<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを<ruby><rb>回</rb><rt>まわ</rt></ruby>るようにした、<ruby><rb>人間</rb><rt>にんげん</rt></ruby>の<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>衛星</rb><rt>えいせい</rt></ruby>。<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby>のようすや<ruby><rb>気象</rb><rt>きしょう</rt></ruby>などを<ruby><rb>調</rb><rt>しら</rt></ruby>べたり、<ruby><rb>通信</rb><rt>つうしん</rt></ruby>や<ruby><rb>放送</rb><rt>ほうそう</rt></ruby>などの<ruby><rb>電波</rb><rt>でんぱ</rt></ruby>の<ruby><rb>中継</rb><rt>ちゅうけい</rt></ruby>に<ruby><rb>役立</rb><rt>やくだ</rt></ruby>てたりする。",
+          "hyouki": [
+            "人工衛星"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>光</rb><rt>ひかり</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>、<ruby><rb>温度</rb><rt>おんど</rt></ruby>などに<ruby><rb>反応</rb><rt>はんのう</rt></ruby>して、<ruby><rb>電気的</rb><rt>でんきてき</rt></ruby>な<ruby><rb>信号</rb><rt>しんごう</rt></ruby>を<ruby><rb>送</rb><rt>おく</rt></ruby>る<ruby><rb>装置</rb><rt>そうち</rt></ruby>。",
+          "hyouki": [
+            "センサー"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>細</rb><rt>こま</rt></ruby>かいつぶ。",
+          "hyouki": [
+            "粒子"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>細</rb><rt>こま</rt></ruby>かい。",
+          "hyouki": [
+            "詳しい"
+          ]
+        },
+        {
+          "def": "<ruby><rb>細</rb><rt>こま</rt></ruby>かいことまでよく<ruby><rb>知</rb><rt>し</rt></ruby>っている。",
+          "hyouki": [
+            "詳しい"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "ふつうとちがう<ruby><rb>特別</rb><rt>とくべつ</rt></ruby>なようす。",
+          "hyouki": [
+            "異常"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>天候</rb><rt>てんこう</rt></ruby>・<ruby><rb>風速</rb><rt>ふうそく</rt></ruby>・<ruby><rb>気圧</rb><rt>きあつ</rt></ruby>など、<ruby><rb>大気中</rb><rt>たいきちゅう</rt></ruby>に<ruby><rb>起</rb><rt>お</rt></ruby>こる<ruby><rb>天気</rb><rt>てんき</rt></ruby>のようす。",
+          "hyouki": [
+            "気象"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>考</rb><rt>かんが</rt></ruby>えるもとになる<ruby><rb>材料</rb><rt>ざいりょう</rt></ruby>や<ruby><rb>事実</rb><rt>じじつ</rt></ruby>。",
+          "hyouki": [
+            "データ"
+          ]
+        },
+        {
+          "def": "コンピューターで<ruby><rb>使</rb><rt>つか</rt></ruby>えるように、<ruby><rb>数字</rb><rt>すうじ</rt></ruby>や<ruby><rb>記号</rb><rt>きごう</rt></ruby>に<ruby><rb>置</rb><rt>お</rt></ruby>きかえられた<ruby><rb>資料</rb><rt>しりょう</rt></ruby>。",
+          "hyouki": [
+            "データ"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>筒</rb><rt>つつ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れた<ruby><rb>火薬</rb><rt>かやく</rt></ruby>などを<ruby><rb>爆発</rb><rt>ばくはつ</rt></ruby>させ、<ruby><rb>後</rb><rt>うし</rt></ruby>ろへふき<ruby><rb>出</rb><rt>だ</rt></ruby>すガスの<ruby><rb>勢</rb><rt>いきお</rt></ruby>いの<ruby><rb>反動</rb><rt>はんどう</rt></ruby>で、<ruby><rb>飛</rb><rt>と</rt></ruby>ぶ<ruby><rb>仕</rb><rt>し</rt></ruby>かけ。また、それを<ruby><rb>装置</rb><rt>そうち</rt></ruby>した<ruby><rb>飛行物体</rb><rt>ひこうぶったい</rt></ruby>。",
+          "hyouki": [
+            "ロケット"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "（<ruby><rb>勢</rb><rt>いきお</rt></ruby>いよく）<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>空中</rb><rt>くうちゅう</rt></ruby>に<ruby><rb>上</rb><rt>あ</rt></ruby>げる。",
+          "hyouki": [
+            "打ち上げる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>波</rb><rt>なみ</rt></ruby>が<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>陸</rb><rt>りく</rt></ruby>に<ruby><rb>運</rb><rt>はこ</rt></ruby>び<ruby><rb>上</rb><rt>あ</rt></ruby>げる。",
+          "hyouki": [
+            "打ち上げる"
+          ]
+        },
+        {
+          "def": "（<ruby><rb>仕事</rb><rt>しごと</rt></ruby>などを）すっかり<ruby><rb>終</rb><rt>お</rt></ruby>える。",
+          "hyouki": [
+            "打ち上げる"
+          ]
+        }
+      ]
+    }
+  }
+}

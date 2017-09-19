@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011143881000.mp3", 
+  "title": "北朝鮮に拉致された人の家族などが集まって会を開く", 
+  "news_prearranged_time": "2017-09-19 16:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>北朝鮮<rt>きたちょうせん</rt></ruby>は１５<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>、<ruby>日本人<rt>にっぽんじん</rt></ruby>を<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>拉致<rt>らち</rt></ruby></a>して<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>に<ruby>連<rt>つ</rt></ruby>れて<ruby>行<rt>い</rt></ruby>ったことを<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>認<rt>みと</rt></ruby>め</a>ました。", 
+  "news_web_movie_uri": "", 
+  "title_with_ruby": "<ruby>北朝鮮<rt>きたちょうせん</rt></ruby>に<ruby>拉致<rt>らち</rt></ruby>された<ruby>人<rt>ひと</rt></ruby>の<ruby>家族<rt>かぞく</rt></ruby>などが<ruby>集<rt>あつ</rt></ruby>まって<ruby>会<rt>かい</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>く", 
+  "news_id": "k10011143881000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": false, 
+  "top_display_flag": true, 
+  "top_priority_number": "1", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170917/../20170917/K10011143881_1709171852_1709171854_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}
