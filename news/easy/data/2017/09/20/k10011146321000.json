@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011146321000.mp3", 
+  "title": "コンビニが自動販売機で食べ物などを売る", 
+  "news_prearranged_time": "2017-09-20 15:55:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": false, 
+  "outline_with_ruby": "<p><ruby>会社<rt>かいしゃ</rt></ruby>や<ruby>工場<rt>こうじょう</rt></ruby>などの<ruby>建物<rt>たてもの</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>自動販売機<rt>じどうはんばいき</rt></ruby></a>を<ruby>置<rt>お</rt></ruby>いて、<ruby>弁当<rt>べんとう</rt></ruby>や<a href='javascript:void(0)' class='dicWin' id='id-0002'>おにぎり</a>、お<ruby>菓子<rt>かし</rt></ruby>などを<ruby>売<rt>う</rt></ruby>る<a href='javascript:void(0)' class='dicWin' id='id-0000'>コンビニ</a>が<ruby>多<rt>おお</rt></ruby>くなっています。", 
+  "news_web_movie_uri": "k10011146321_201709181926_201709181928.mp4", 
+  "title_with_ruby": "コンビニが<ruby>自動販売機<rt>じどうはんばいき</rt></ruby>で<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>などを<ruby>売<rt>う</rt></ruby>る", 
+  "news_id": "k10011146321000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "3", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170918/../20170918/K10011146321_1709181802_1709181804_01_02.jpg?utm_int=news-business_contents_list-items_030", 
+  "news_easy_movie_uri": "''"
+}

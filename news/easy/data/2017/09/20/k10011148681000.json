@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011148681000.mp3", 
+  "title": "メキシコで大きな地震　１４９人が亡くなる", 
+  "news_prearranged_time": "2017-09-20 15:55:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": false, 
+  "outline_with_ruby": "<p><ruby>日本<rt>にっぽん</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>の<ruby>２０日<rt>はつか</rt></ruby><ruby>午前<rt>ごぜん</rt></ruby>３<ruby>時<rt>じ</rt></ruby>ごろ、メキシコのプエブラ<ruby>州<rt>しゅう</rt></ruby>で<a href='javascript:void(0)' class='dicWin' id='id-0000'>マグニチュード</a>７．１（Ｍ７．１）の<ruby>大<rt>おお</rt></ruby>きな<ruby>地震<rt>じしん</rt></ruby>がありました。", 
+  "news_web_movie_uri": "k10011148681_201709201204_201709201207.mp4", 
+  "title_with_ruby": "メキシコで<ruby>大<rt>おお</rt></ruby>きな<ruby>地震<rt>じしん</rt></ruby>　１４９<ruby>人<rt>にん</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなる", 
+  "news_id": "k10011148681000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "1", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170920/../20170920/K10011148681_1709201204_1709201207_01_03.jpg?utm_int=news_contents_news-main_001&nnw_opt=news-main_a", 
+  "news_easy_movie_uri": "''"
+}

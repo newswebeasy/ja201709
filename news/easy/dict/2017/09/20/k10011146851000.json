@@ -1,0 +1,66 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>野</rb><rt>の</rt></ruby>や<ruby><rb>山</rb><rt>やま</rt></ruby>に<ruby><rb>生</rb><rt>は</rt></ruby>え、<ruby><rb>木</rb><rt>き</rt></ruby>の<ruby><rb>皮</rb><rt>かわ</rt></ruby>に<ruby><rb>傷</rb><rt>きず</rt></ruby>をつけてうるしをとる<ruby><rb>木</rb><rt>き</rt></ruby>。<ruby><rb>秋</rb><rt>あき</rt></ruby>に<ruby><rb>美</rb><rt>うつく</rt></ruby>しく<ruby><rb>紅葉</rb><rt>こうよう</rt></ruby>する。<ruby><rb>手</rb><rt>て</rt></ruby>でさわると、かぶれることもある。",
+          "hyouki": [
+            "漆"
+          ]
+        },
+        {
+          "def": "ウルシの<ruby><rb>木</rb><rt>き</rt></ruby>の<ruby><rb>液</rb><rt>えき</rt></ruby>から<ruby><rb>作</rb><rt>つく</rt></ruby>った、ぬり<ruby><rb>物</rb><rt>もの</rt></ruby>にぬる<ruby><rb>汁</rb><rt>しる</rt></ruby>。",
+          "hyouki": [
+            "漆"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "こわれているところを<ruby><rb>直</rb><rt>なお</rt></ruby>すこと。<ruby><rb>修繕</rb><rt>しゅうぜん</rt></ruby>。",
+          "hyouki": [
+            "修理"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>数量</rb><rt>すうりょう</rt></ruby>や<ruby><rb>程度</rb><rt>ていど</rt></ruby>が<ruby><rb>少</rb><rt>すく</rt></ruby>なくなる。",
+          "hyouki": [
+            "減る"
+          ]
+        },
+        {
+          "def": "すく。",
+          "hyouki": [
+            "減る"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>文化的</rb><rt>ぶんかてき</rt></ruby>な<ruby><rb>価値</rb><rt>かち</rt></ruby>のあるもの。<ruby><rb>特</rb><rt>とく</rt></ruby>に、<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>によって<ruby><rb>生</rb><rt>う</rt></ruby>み<ruby><rb>出</rb><rt>だ</rt></ruby>された、<ruby><rb>国民</rb><rt>こくみん</rt></ruby>がほこれる<ruby><rb>財産</rb><rt>ざいさん</rt></ruby>。<ruby><rb>学問</rb><rt>がくもん</rt></ruby>・<ruby><rb>芸術</rb><rt>げいじゅつ</rt></ruby>など。",
+          "hyouki": [
+            "文化財"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>寺</rb><rt>てら</rt></ruby>で、<ruby><rb>本尊</rb><rt>ほんぞん</rt></ruby>をまつってある<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。",
+          "hyouki": [
+            "本堂"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くする。",
+          "hyouki": [
+            "増やす"
+          ]
+        }
+      ]
+    }
+  }
+}

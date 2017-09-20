@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011146851000.mp3", 
+  "title": "日本で生産した漆が足りない　修理が遅れる寺もある", 
+  "news_prearranged_time": "2017-09-20 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>岩手県<rt>いわてけん</rt></ruby><ruby>二戸<rt>にのへ</rt></ruby><ruby>市<rt>し</rt></ruby>では、<ruby>日本<rt>にっぽん</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>漆<rt>うるし</rt></ruby></a>の７０％を<ruby>生産<rt>せいさん</rt></ruby>しています。", 
+  "news_web_movie_uri": "k10011146851_201709190441_201709190622.mp4", 
+  "title_with_ruby": "<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>生産<rt>せいさん</rt></ruby>した<ruby>漆<rt>うるし</rt></ruby>が<ruby>足<rt>た</rt></ruby>りない　<ruby>修理<rt>しゅうり</rt></ruby>が<ruby>遅<rt>おく</rt></ruby>れる<ruby>寺<rt>てら</rt></ruby>もある", 
+  "news_id": "k10011146851000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "4", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170919/../20170919/K10011146851_1709190441_1709190622_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

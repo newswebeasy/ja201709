@@ -1,0 +1,94 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>命</rb><rt>いのち</rt></ruby>を<ruby><rb>絶</rb><rt>た</rt></ruby>つこと。<ruby><rb>自害</rb><rt>じがい</rt></ruby>。",
+          "hyouki": [
+            "自殺"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "くぼんだ<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "穴"
+          ]
+        },
+        {
+          "def": "<ruby><rb>向</rb><rt>む</rt></ruby>こうまでつきぬけている<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。",
+          "hyouki": [
+            "穴"
+          ]
+        },
+        {
+          "def": "<ruby><rb>弱</rb><rt>よわ</rt></ruby>いところ。",
+          "hyouki": [
+            "穴"
+          ]
+        },
+        {
+          "def": "<ruby><rb>損</rb><rt>そん</rt></ruby>。<ruby><rb>不足</rb><rt>ふそく</rt></ruby>。",
+          "hyouki": [
+            "穴"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>第二次世界大戦</rb><rt>だいにじせかいたいせん</rt></ruby>のうち、１９４１<ruby><rb>年</rb><rt>ねん</rt></ruby>から１９４５<ruby><rb>年</rb><rt>ねん</rt></ruby>まで、<ruby><rb>太平洋地域</rb><rt>たいへいようちいき</rt></ruby>で<ruby><rb>行</rb><rt>おこな</rt></ruby>われた<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>と、アメリカ・イギリスなどの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>との<ruby><rb>戦</rb><rt>たたか</rt></ruby>いで、<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>が<ruby><rb>敗</rb><rt>やぶ</rt></ruby>れて<ruby><rb>終</rb><rt>お</rt></ruby>わった。",
+          "hyouki": [
+            "太平洋戦争"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>色紙</rb><rt>いろがみ</rt></ruby>を<ruby><rb>折</rb><rt>お</rt></ruby>って、いろいろな<ruby><rb>形</rb><rt>かたち</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>遊</rb><rt>あそ</rt></ruby>び。また、その<ruby><rb>紙</rb><rt>かみ</rt></ruby>。",
+          "hyouki": [
+            "折り紙"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>水辺</rb><rt>みずべ</rt></ruby>で<ruby><rb>暮</rb><rt>く</rt></ruby>らす<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>渡</rb><rt>わた</rt></ruby>り<ruby><rb>鳥</rb><rt>どり</rt></ruby>。<ruby><rb>首</rb><rt>くび</rt></ruby>と<ruby><rb>足</rb><rt>あし</rt></ruby>とくちばしが<ruby><rb>長</rb><rt>なが</rt></ruby>い。<ruby><rb>昔</rb><rt>むかし</rt></ruby>から、めでたい<ruby><rb>鳥</rb><rt>とり</rt></ruby>として<ruby><rb>知</rb><rt>し</rt></ruby>られている。",
+          "hyouki": [
+            "鶴"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>男</rb><rt>おとこ</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>。",
+          "hyouki": [
+            "少年"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>罪</rb><rt>つみ</rt></ruby>を<ruby><rb>犯</rb><rt>おか</rt></ruby>した<ruby><rb>疑</rb><rt>うたが</rt></ruby>いのある<ruby><rb>人</rb><rt>ひと</rt></ruby>を、<ruby><rb>警察</rb><rt>けいさつ</rt></ruby>がつかまえること。",
+          "hyouki": [
+            "逮捕"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "おだやかで、<ruby><rb>無事</rb><rt>ぶじ</rt></ruby>なこと。",
+          "hyouki": [
+            "平和"
+          ]
+        },
+        {
+          "def": "<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>がなく、<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>が<ruby><rb>無事</rb><rt>ぶじ</rt></ruby>に<ruby><rb>治</rb><rt>おさ</rt></ruby>まっていること。",
+          "hyouki": [
+            "平和"
+          ]
+        }
+      ]
+    }
+  }
+}

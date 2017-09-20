@@ -1,0 +1,78 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>英語</rb><rt>えいご</rt></ruby>のコンビニエンスストアの<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>食料品</rb><rt>しょくりょうひん</rt></ruby>や<ruby><rb>日用品</rb><rt>にちようひん</rt></ruby>が、<ruby><rb>手軽</rb><rt>てがる</rt></ruby>にいつでも<ruby><rb>買</rb><rt>か</rt></ruby>えるように<ruby><rb>開</rb><rt>ひら</rt></ruby>いている、<ruby><rb>小型</rb><rt>こがた</rt></ruby>のスーパー。",
+          "hyouki": [
+            "コンビニ"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "お<ruby><rb>金</rb><rt>かね</rt></ruby>を<ruby><rb>入</rb><rt>い</rt></ruby>れると、<ruby><rb>自動的</rb><rt>じどうてき</rt></ruby>に<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>して<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>売</rb><rt>う</rt></ruby>る<ruby><rb>装置</rb><rt>そうち</rt></ruby>。",
+          "hyouki": [
+            "自動販売機"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "おむすび。にぎり<ruby><rb>飯</rb><rt>めし</rt></ruby>。",
+          "hyouki": [
+            "お握り"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>近</rb><rt>ちか</rt></ruby>くに<ruby><rb>寄</rb><rt>よ</rt></ruby>せる。",
+          "hyouki": [
+            "近付ける"
+          ]
+        },
+        {
+          "def": "そばへ<ruby><rb>寄</rb><rt>よ</rt></ruby>せて、<ruby><rb>親</rb><rt>した</rt></ruby>しくする。",
+          "hyouki": [
+            "近付ける"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "さまざまな<ruby><rb>部品</rb><rt>ぶひん</rt></ruby>から<ruby><rb>配線</rb><rt>はいせん</rt></ruby>までを<ruby><rb>一</rb><rt>ひと</rt></ruby>つに<ruby><rb>組</rb><rt>く</rt></ruby>みこんで、<ruby><rb>非常</rb><rt>ひじょう</rt></ruby>に<ruby><rb>小</rb><rt>ちい</rt></ruby>さいところにたくさんの<ruby><rb>回路</rb><rt>かいろ</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>ったもの。<ruby><rb>小型</rb><rt>こがた</rt></ruby>で<ruby><rb>軽</rb><rt>かる</rt></ruby>く、<ruby><rb>計算機</rb><rt>けいさんき</rt></ruby>やコンピューターなどに<ruby><rb>使</rb><rt>つか</rt></ruby>われる。<ruby><rb>集積回路</rb><rt>しゅうせきかいろ</rt></ruby>。",
+          "hyouki": [
+            "IC"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>紙</rb><rt>かみ</rt></ruby>を、<ruby><rb>四角</rb><rt>しかく</rt></ruby>に<ruby><rb>小</rb><rt>ちい</rt></ruby>さく<ruby><rb>切</rb><rt>き</rt></ruby>ったもの。<ruby><rb>記入</rb><rt>きにゅう</rt></ruby>したり、<ruby><rb>整理</rb><rt>せいり</rt></ruby>するときなどに<ruby><rb>使</rb><rt>つか</rt></ruby>う。",
+          "hyouki": [
+            "カード"
+          ]
+        },
+        {
+          "def": "「クレジットカード」「キャッシュカード」などの<ruby><rb>略</rb><rt>りゃく</rt></ruby>。",
+          "hyouki": [
+            "カード"
+          ]
+        },
+        {
+          "def": "トランプ（の<ruby><rb>札</rb><rt>ふだ</rt></ruby>）。",
+          "hyouki": [
+            "カード"
+          ]
+        },
+        {
+          "def": "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>などの、<ruby><rb>試合</rb><rt>しあい</rt></ruby>の<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>合</rb><rt>あ</rt></ruby>わせ。",
+          "hyouki": [
+            "カード"
+          ]
+        }
+      ]
+    }
+  }
+}
