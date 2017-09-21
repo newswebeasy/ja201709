@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011148481000.mp3", 
+  "title": "１億５０００万人以上の子どもが危険な仕事などをしている", 
+  "news_prearranged_time": "2017-09-21 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>国連<rt>こくれん</rt></ruby></a>によると、<ruby>去年<rt>きょねん</rt></ruby>、<ruby>世界<rt>せかい</rt></ruby>の５<ruby>歳<rt>さい</rt></ruby>〜１７<ruby>歳<rt>さい</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもの<ruby>中<rt>なか</rt></ruby>の１<ruby>億<rt>おく</rt></ruby>５１６０<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>が、<ruby>危険<rt>きけん</rt></ruby>な<ruby>仕事<rt>しごと</rt></ruby>や<ruby>体<rt>からだ</rt></ruby>に<ruby>悪<rt>わる</rt></ruby>い<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>影響<rt>えいきょう</rt></ruby></a>がある<ruby>仕事<rt>しごと</rt></ruby>をしていました。", 
+  "news_web_movie_uri": "k10011148481_201709200450_201709200451.mp4", 
+  "title_with_ruby": "１<ruby>億<rt>おく</rt></ruby>５０００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもが<ruby>危険<rt>きけん</rt></ruby>な<ruby>仕事<rt>しごと</rt></ruby>などをしている", 
+  "news_id": "k10011148481000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "4", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170920/../20170920/K10011148481_1709200450_1709200451_01_03.jpg?utm_int=nsearch_contents_search-items_001", 
+  "news_easy_movie_uri": "''"
+}

@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011150011000.mp3", 
+  "title": "「子どもを車に乗せるときはチャイルドシートを使って」", 
+  "news_prearranged_time": "2017-09-21 16:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": false, 
+  "outline_with_ruby": "<p><ruby>日本<rt>にっぽん</rt></ruby>では、０<ruby>歳<rt>さい</rt></ruby>〜５<ruby>歳<rt>さい</rt></ruby>の<ruby>子<rt>こ</rt></ruby>どもを<ruby>車<rt>くるま</rt></ruby>に<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>乗<rt>の</rt></ruby>せる</a>とき<ruby>安全<rt>あんぜん</rt></ruby>のためチャイルドシートを<ruby>使<rt>つか</rt></ruby>うことが<ruby>法律<rt>ほうりつ</rt></ruby>で<ruby>決<rt>き</rt></ruby>まっています。", 
+  "news_web_movie_uri": "k10011150011_201709211007_201709211017.mp4", 
+  "title_with_ruby": "「<ruby>子<rt>こ</rt></ruby>どもを<ruby>車<rt>くるま</rt></ruby>に<ruby>乗<rt>の</rt></ruby>せるときはチャイルドシートを<ruby>使<rt>つか</rt></ruby>って」", 
+  "news_id": "k10011150011000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "2", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170921/../20170921/K10011150011_1709210608_1709210610_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}
