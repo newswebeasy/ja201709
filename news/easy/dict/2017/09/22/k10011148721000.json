@@ -1,0 +1,178 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "インドやアフリカなど、<ruby><rb>熱帯</rb><rt>ねったい</rt></ruby><ruby><rb>地方</rb><rt>ちほう</rt></ruby>にすむ<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。ゾウに<ruby><rb>次</rb><rt>つ</rt></ruby>いで<ruby><rb>大</rb><rt>おお</rt></ruby>きく、<ruby><rb>鼻</rb><rt>はな</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>か<ruby><rb>額</rb><rt>ひたい</rt></ruby>に<ruby><rb>一本</rb><rt>いっぽん</rt></ruby>または<ruby><rb>二本</rb><rt>にほん</rt></ruby>の<ruby><rb>角</rb><rt>つの</rt></ruby>がある。",
+          "hyouki": [
+            "犀"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>頭</rb><rt>あたま</rt></ruby>につき<ruby><rb>出</rb><rt>で</rt></ruby>ているかたいとがったもの。",
+          "hyouki": [
+            "角"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "とってはいけない<ruby><rb>鳥</rb><rt>とり</rt></ruby>やけものを、こっそりとること。",
+          "hyouki": [
+            "密猟"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>飾</rb><rt>かざ</rt></ruby>ること。また、<ruby><rb>飾</rb><rt>かざ</rt></ruby>って<ruby><rb>美</rb><rt>うつく</rt></ruby>しく<ruby><rb>見</rb><rt>み</rt></ruby>せるもの。",
+          "hyouki": [
+            "飾り"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>が<ruby><rb>買</rb><rt>か</rt></ruby>われる。",
+          "hyouki": [
+            "売れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>られる。",
+          "hyouki": [
+            "売れる"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>命</rb><rt>いのち</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>る。",
+          "hyouki": [
+            "殺す"
+          ]
+        },
+        {
+          "def": "（<ruby><rb>笑</rb><rt>わら</rt></ruby>い・あくび・<ruby><rb>息</rb><rt>いき</rt></ruby>などを）おさえて<ruby><rb>止</rb><rt>と</rt></ruby>める。",
+          "hyouki": [
+            "殺す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>役</rb><rt>やく</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>たなくする。",
+          "hyouki": [
+            "殺す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、アウトにする。",
+          "hyouki": [
+            "殺す"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "ふだんないような、できごと。",
+          "hyouki": [
+            "事件"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>命</rb><rt>いのち</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>る。",
+          "hyouki": [
+            "殺す"
+          ]
+        },
+        {
+          "def": "（<ruby><rb>笑</rb><rt>わら</rt></ruby>い・あくび・<ruby><rb>息</rb><rt>いき</rt></ruby>などを）おさえて<ruby><rb>止</rb><rt>と</rt></ruby>める。",
+          "hyouki": [
+            "殺す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>役</rb><rt>やく</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>たなくする。",
+          "hyouki": [
+            "殺す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、アウトにする。",
+          "hyouki": [
+            "殺す"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "あたま。",
+          "hyouki": [
+            "頭"
+          ]
+        },
+        {
+          "def": "<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>つ<ruby><rb>者</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "頭"
+          ]
+        },
+        {
+          "def": "はじめ。",
+          "hyouki": [
+            "頭"
+          ]
+        },
+        {
+          "def": "<ruby><rb>辺</rb><rt>あた</rt></ruby>り。<ruby><rb>付近</rb><rt>ふきん</rt></ruby>。",
+          "hyouki": [
+            "頭"
+          ]
+        },
+        {
+          "def": "けものを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。",
+          "hyouki": [
+            "頭"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>一</rb><rt>ひと</rt></ruby>つ、<ruby><rb>二</rb><rt>ふた</rt></ruby>つ、<ruby><rb>三</rb><rt>みっ</rt></ruby>つなどと<ruby><rb>数</rb><rt>かぞ</rt></ruby>えた<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>数量</rb><rt>すうりょう</rt></ruby>。すう。",
+          "hyouki": [
+            "数"
+          ]
+        },
+        {
+          "def": "いくつもあること。たくさん。",
+          "hyouki": [
+            "数"
+          ]
+        },
+        {
+          "def": "<ruby><rb>数</rb><rt>かぞ</rt></ruby>えあげる<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちのあるもの。なかま。",
+          "hyouki": [
+            "数"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>害</rb><rt>がい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けないように、<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐ。",
+          "hyouki": [
+            "守る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>めたとおりにする。",
+          "hyouki": [
+            "守る"
+          ]
+        }
+      ]
+    }
+  }
+}

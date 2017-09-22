@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011149561000.mp3", 
+  "title": "日本に旅行に来た外国人　今年はもう２０００万人以上", 
+  "news_prearranged_time": "2017-09-22 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>日本政府観光局<rt>にほんせいふかんこうきょく</rt></ruby>は、<ruby>今年<rt>ことし</rt></ruby><ruby>日本<rt>にっぽん</rt></ruby>に<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>が９<ruby>月<rt>がつ</rt></ruby>１５<ruby>日<rt>にち</rt></ruby>までに２０００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>になったと<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>発表<rt>はっぴょう</rt></ruby></a>しました。", 
+  "news_web_movie_uri": "", 
+  "title_with_ruby": "<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>外国人<rt>がいこくじん</rt></ruby>　<ruby>今年<rt>ことし</rt></ruby>はもう２０００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>", 
+  "news_id": "k10011149561000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": false, 
+  "top_display_flag": true, 
+  "top_priority_number": "5", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170920/../20170920/K10011149561_1709202251_1709202257_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}

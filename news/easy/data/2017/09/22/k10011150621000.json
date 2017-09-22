@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011150621000.mp3", 
+  "title": "韓国　ピョンチャンオリンピックのメダルを発表", 
+  "news_prearranged_time": "2017-09-22 15:50:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>来年<rt>らいねん</rt></ruby>２<ruby>月<rt>がつ</rt></ruby>、<ruby>韓国<rt>かんこく</rt></ruby>のピョンチャンで<ruby>冬<rt>ふゆ</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0002'>オリンピック</a>があります。", 
+  "news_web_movie_uri": "k10011150621_201709211409_201709211410.mp4", 
+  "title_with_ruby": "<ruby>韓国<rt>かんこく</rt></ruby>　ピョンチャンオリンピックのメダルを<ruby>発表<rt>はっぴょう</rt></ruby>", 
+  "news_id": "k10011150621000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "2", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170921/../20170921/K10011150621_1709211348_1709211350_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}
