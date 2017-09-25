@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10011150951000.mp3", 
+  "title": "糖尿病になっている可能性が高い人は１０００万人以上", 
+  "news_prearranged_time": "2017-09-25 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>厚生労働省<rt>こうせいろうどうしょう</rt></ruby></a>は<ruby>去年<rt>きょねん</rt></ruby>１０<ruby>月<rt>がつ</rt></ruby>〜１１<ruby>月<rt>がつ</rt></ruby>、<a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>約<rt>やく</rt></ruby></a>１<ruby>万<rt>まん</rt></ruby>１０００<ruby>人<rt>にん</rt></ruby>の<ruby>血<rt>ち</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0004'><ruby>検査<rt>けんさ</rt></ruby></a>をしました。", 
+  "news_web_movie_uri": "k10011150951_201709211812_201709211817.mp4", 
+  "title_with_ruby": "<ruby>糖尿病<rt>とうにょうびょう</rt></ruby>になっている<ruby>可能性<rt>かのうせい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>は１０００<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>", 
+  "news_id": "k10011150951000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "4", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170921/../20170921/K10011150951_1709211816_1709211817_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

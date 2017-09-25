@@ -1,0 +1,114 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の、ある<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。",
+          "hyouki": [
+            "一部"
+          ]
+        },
+        {
+          "def": "<ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えるときの、<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。",
+          "hyouki": [
+            "一部"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "かべ・ゆかなどにはめこむ<ruby><rb>板</rb><rt>いた</rt></ruby>。",
+          "hyouki": [
+            "パネル"
+          ]
+        },
+        {
+          "def": "<ruby><rb>絵</rb><rt>え</rt></ruby>をかく<ruby><rb>板</rb><rt>いた</rt></ruby>。また、<ruby><rb>板</rb><rt>いた</rt></ruby>にかいた<ruby><rb>絵</rb><rt>え</rt></ruby>。",
+          "hyouki": [
+            "パネル"
+          ]
+        },
+        {
+          "def": "<ruby><rb>写真</rb><rt>しゃしん</rt></ruby>などをはった<ruby><rb>板</rb><rt>いた</rt></ruby>。",
+          "hyouki": [
+            "パネル"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>当</rb><rt>あ</rt></ruby>たる。つき<ruby><rb>当</rb><rt>あ</rt></ruby>たる。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>困難</rb><rt>こんなん</rt></ruby>なことに<ruby><rb>出</rb><rt>で</rt></ruby>あう。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>争</rb><rt>あらそ</rt></ruby>う。<ruby><rb>立</rb><rt>た</rt></ruby>ち<ruby><rb>向</rb><rt>む</rt></ruby>かう。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>重</rb><rt>かさ</rt></ruby>なる。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>雨</rb><rt>あめ</rt></ruby>などを<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐために、<ruby><rb>家</rb><rt>いえ</rt></ruby>をおおうもの。",
+          "hyouki": [
+            "屋根"
+          ]
+        },
+        {
+          "def": "<ruby><rb>上</rb><rt>うえ</rt></ruby>をおおうもの。",
+          "hyouki": [
+            "屋根"
+          ]
+        },
+        {
+          "def": "いちばん<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "屋根"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "そこだけが、<ruby><rb>周</rb><rt>まわ</rt></ruby>りより<ruby><rb>低</rb><rt>ひく</rt></ruby>く<ruby><rb>落</rb><rt>お</rt></ruby>ちこむ。",
+          "hyouki": [
+            "へこむ"
+          ]
+        },
+        {
+          "def": "やりこめられる。<ruby><rb>負</rb><rt>ま</rt></ruby>ける。",
+          "hyouki": [
+            "へこむ"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>体</rb><rt>からだ</rt></ruby>の、<ruby><rb>胸</rb><rt>むね</rt></ruby>や<ruby><rb>腹</rb><rt>はら</rt></ruby>の<ruby><rb>辺</rb><rt>あた</rt></ruby>りのこと。<ruby><rb>胴</rb><rt>どう</rt></ruby>。",
+          "hyouki": [
+            "胴体"
+          ]
+        },
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>の、<ruby><rb>真</rb><rt>ま</rt></ruby>ん<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。",
+          "hyouki": [
+            "胴体"
+          ]
+        }
+      ]
+    }
+  }
+}

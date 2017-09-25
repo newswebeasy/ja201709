@@ -1,0 +1,78 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>思</rb><rt>おも</rt></ruby>い<ruby><rb>出</rb><rt>で</rt></ruby>に<ruby><rb>残</rb><rt>のこ</rt></ruby>しておくこと。また、その<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "記念"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>家</rb><rt>いえ</rt></ruby>。<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。",
+          "hyouki": [
+            "館"
+          ]
+        },
+        {
+          "def": "<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>建物</rb><rt>たてもの</rt></ruby>につけることば。",
+          "hyouki": [
+            "館"
+          ]
+        },
+        {
+          "def": "<ruby><rb>宿屋</rb><rt>やどや</rt></ruby>などの<ruby><rb>名前</rb><rt>なまえ</rt></ruby>につけることば。",
+          "hyouki": [
+            "館"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>小説</rb><rt>しょうせつ</rt></ruby>や<ruby><rb>劇</rb><rt>げき</rt></ruby>・<ruby><rb>童話</rb><rt>どうわ</rt></ruby>などを<ruby><rb>書</rb><rt>か</rt></ruby>く<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "作家"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>畑</rb><rt>はたけ</rt></ruby>やビニルハウスに<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>作物</rb><rt>さくもつ</rt></ruby>。<ruby><rb>春</rb><rt>はる</rt></ruby>に<ruby><rb>白</rb><rt>しろ</rt></ruby>い<ruby><rb>花</rb><rt>はな</rt></ruby>が<ruby><rb>咲</rb><rt>さ</rt></ruby>き、<ruby><rb>実</rb><rt>み</rt></ruby>は<ruby><rb>熟</rb><rt>じゅく</rt></ruby>すと<ruby><rb>赤</rb><rt>あか</rt></ruby>くなって<ruby><rb>食</rb><rt>た</rt></ruby>べられる。ストロベリー。",
+          "hyouki": [
+            "苺"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>勉強</rb><rt>べんきょう</rt></ruby>したり、ものを<ruby><rb>書</rb><rt>か</rt></ruby>いたりするときに<ruby><rb>使</rb><rt>つか</rt></ruby>う<ruby><rb>用具</rb><rt>ようぐ</rt></ruby>。<ruby><rb>紙</rb><rt>かみ</rt></ruby>・<ruby><rb>鉛筆</rb><rt>えんぴつ</rt></ruby>・ノートなど。<ruby><rb>文具</rb><rt>ぶんぐ</rt></ruby>。",
+          "hyouki": [
+            "文房具"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>見</rb><rt>み</rt></ruby>たり<ruby><rb>聞</rb><rt>き</rt></ruby>いたりさわったりして、ある<ruby><rb>感</rb><rt>かん</rt></ruby>じを<ruby><rb>体</rb><rt>からだ</rt></ruby>に<ruby><rb>受</rb><rt>う</rt></ruby>ける。",
+          "hyouki": [
+            "感じる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>心</rb><rt>こころ</rt></ruby>に<ruby><rb>思</rb><rt>おも</rt></ruby>う。",
+          "hyouki": [
+            "感じる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>深</rb><rt>ふか</rt></ruby>く<ruby><rb>心</rb><rt>こころ</rt></ruby>にしみる。<ruby><rb>感動</rb><rt>かんどう</rt></ruby>する。",
+          "hyouki": [
+            "感じる"
+          ]
+        }
+      ]
+    }
+  }
+}
