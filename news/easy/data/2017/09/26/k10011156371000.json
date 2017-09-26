@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10011156371000.mp3", 
+  "title": "愛媛県松山市の道後温泉に新しい建物がオープン", 
+  "news_prearranged_time": "2017-09-26 15:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": false, 
+  "outline_with_ruby": "<p><ruby>道後温泉<rt>どうごおんせん</rt></ruby>は<ruby>愛媛県<rt>えひめけん</rt></ruby><ruby>松山市<rt>まつやまし</rt></ruby>にある<ruby>有名<rt>ゆうめい</rt></ruby>な<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>温泉<rt>おんせん</rt></ruby></a>です。", 
+  "news_web_movie_uri": "", 
+  "title_with_ruby": "<ruby>愛媛県<rt>えひめけん</rt></ruby><ruby>松山市<rt>まつやまし</rt></ruby>の<ruby>道後温泉<rt>どうごおんせん</rt></ruby>に<ruby>新<rt>あたら</rt></ruby>しい<ruby>建物<rt>たてもの</rt></ruby>がオープン", 
+  "news_id": "k10011156371000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": false, 
+  "top_display_flag": true, 
+  "top_priority_number": "3", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170926/../20170926/K10011156371_1709261115_1709261123_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}

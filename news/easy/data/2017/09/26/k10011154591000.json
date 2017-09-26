@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011154591000.mp3", 
+  "title": "沖縄県　「クロウミガメ」の赤ちゃんが生まれる", 
+  "news_prearranged_time": "2017-09-26 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>沖縄県<rt>おきなわけん</rt></ruby><ruby>本部町<rt>もとぶちょう</rt></ruby>にある<ruby>海洋博公園<rt>かいようはくこうえん</rt></ruby>では、１８<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>と８<ruby>年<rt>ねん</rt></ruby><ruby>前<rt>まえ</rt></ruby>に<ruby>沖縄県<rt>おきなわけん</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>で<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>助<rt>たす</rt></ruby>け</a>た<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>雄<rt>おす</rt></ruby></a>と<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>雌<rt>めす</rt></ruby></a>の「クロウミガメ」を<ruby>育<rt>そだ</rt></ruby>てています。", 
+  "news_web_movie_uri": "k10011154591_201709242111_201709242120.mp4", 
+  "title_with_ruby": "<ruby>沖縄県<rt>おきなわけん</rt></ruby>　「クロウミガメ」の<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>生<rt>う</rt></ruby>まれる", 
+  "news_id": "k10011154591000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "4", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170924/../20170924/K10011154591_1709242017_1709242018_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}

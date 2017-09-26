@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011154761000.mp3", 
+  "title": "「マイナンバーカードを使って」新しいサービスが始まる", 
+  "news_prearranged_time": "2017-09-26 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p><ruby>日本<rt>にっぽん</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいる<ruby>人<rt>ひと</rt></ruby>はみんな、<ruby>国<rt>くに</rt></ruby>が<ruby>決<rt>き</rt></ruby>めた<ruby>番号<rt>ばんごう</rt></ruby>の「マイナンバー」を<ruby>持<rt>も</rt></ruby>っています。", 
+  "news_web_movie_uri": "k10011154761_201709250446_201709250447.mp4", 
+  "title_with_ruby": "「マイナンバーカードを<ruby>使<rt>つか</rt></ruby>って」<ruby>新<rt>あたら</rt></ruby>しいサービスが<ruby>始<rt>はじ</rt></ruby>まる", 
+  "news_id": "k10011154761000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "5", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170925/../20170925/K10011154761_1709250446_1709250447_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

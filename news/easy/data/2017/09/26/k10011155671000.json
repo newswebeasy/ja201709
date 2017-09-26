@@ -1,0 +1,21 @@
+{
+  "news_file_ver": true, 
+  "news_easy_voice_uri": "k10011155671000.mp3", 
+  "title": "安倍総理大臣が衆議院を解散して選挙をすると言う", 
+  "news_prearranged_time": "2017-09-26 15:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": false, 
+  "outline_with_ruby": "<p><ruby>安倍<rt>あべ</rt></ruby><a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>総理大臣<rt>そうりだいじん</rt></ruby></a>は２５<ruby>日<rt>にち</rt></ruby>に<a href='javascript:void(0)' class='dicWin' id='id-0004'><ruby>記者<rt>きしゃ</rt></ruby></a>たちを<ruby>集<rt>あつ</rt></ruby>めて、<ruby>今月<rt>こんげつ</rt></ruby>２８<ruby>日<rt>にち</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0005'><ruby>国会<rt>こっかい</rt></ruby></a>で<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>衆議院<rt>しゅうぎいん</rt></ruby></a>を<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>解散<rt>かいさん</rt></ruby></a>して、<ruby>新<rt>あたら</rt></ruby>しい<a href='javascript:void(0)' class='dicWin' id='id-0006'><ruby>議員<rt>ぎいん</rt></ruby></a>を<ruby>選<rt>えら</rt></ruby>ぶ<a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>選挙<rt>せんきょ</rt></ruby></a>をしたいと<ruby>言<rt>い</rt></ruby>いました。", 
+  "news_web_movie_uri": "k10011155671_201709251918_201709251921.mp4", 
+  "title_with_ruby": "<ruby>安倍<rt>あべ</rt></ruby><ruby>総理大臣<rt>そうりだいじん</rt></ruby>が<ruby>衆議院<rt>しゅうぎいん</rt></ruby>を<ruby>解散<rt>かいさん</rt></ruby>して<ruby>選挙<rt>せんきょ</rt></ruby>をすると<ruby>言<rt>い</rt></ruby>う", 
+  "news_id": "k10011155671000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "1", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170925/../20170925/K10011155671_1709251843_1709251847_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}

@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011155301000.mp3", 
+  "title": "東京都の小池知事が新しい政党を作って代表になる", 
+  "news_prearranged_time": "2017-09-26 15:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": false, 
+  "outline_with_ruby": "<p><ruby>東京都<rt>とうきょうと</rt></ruby>の<ruby>小池<rt>こいけ</rt></ruby><a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>知事<rt>ちじ</rt></ruby></a>は２５<ruby>日<rt>にち</rt></ruby>、<ruby>国<rt>くに</rt></ruby>の<ruby>政治<rt>せいじ</rt></ruby>をするための<ruby>新<rt>あたら</rt></ruby>しい<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>政党<rt>せいとう</rt></ruby></a>を<ruby>作<rt>つく</rt></ruby>って、<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>代表<rt>だいひょう</rt></ruby></a>になると<ruby>言<rt>い</rt></ruby>いました。", 
+  "news_web_movie_uri": "k10011155301_201709251512_201709251513.mp4", 
+  "title_with_ruby": "<ruby>東京都<rt>とうきょうと</rt></ruby>の<ruby>小池<rt>こいけ</rt></ruby><ruby>知事<rt>ちじ</rt></ruby>が<ruby>新<rt>あたら</rt></ruby>しい<ruby>政党<rt>せいとう</rt></ruby>を<ruby>作<rt>つく</rt></ruby>って<ruby>代表<rt>だいひょう</rt></ruby>になる", 
+  "news_id": "k10011155301000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "2", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170925/../20170925/K10011155301_1709251448_1709251450_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}
