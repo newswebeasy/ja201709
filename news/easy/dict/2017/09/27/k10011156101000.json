@@ -1,0 +1,60 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>国民</rb><rt>こくみん</rt></ruby>がみんなで<ruby><rb>祝</rb><rt>いわ</rt></ruby>う<ruby><rb>日</rb><rt>ひ</rt></ruby>。",
+          "hyouki": [
+            "祝日"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>思</rb><rt>おも</rt></ruby>うこと。<ruby><rb>考</rb><rt>かんが</rt></ruby>え。<ruby><rb>計画</rb><rt>けいかく</rt></ruby>。",
+          "hyouki": [
+            "案"
+          ]
+        },
+        {
+          "def": "<ruby><rb>相談</rb><rt>そうだん</rt></ruby>のことがら。",
+          "hyouki": [
+            "案"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>四年</rb><rt>よねん</rt></ruby>ごとに<ruby><rb>開</rb><rt>ひら</rt></ruby>かれ、<ruby><rb>世界</rb><rt>せかい</rt></ruby>じゅうの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>から<ruby><rb>選手</rb><rt>せんしゅ</rt></ruby>が<ruby><rb>参加</rb><rt>さんか</rt></ruby>する<ruby><rb>競技大会</rb><rt>きょうぎたいかい</rt></ruby>。<ruby><rb>古代</rb><rt>こだい</rt></ruby>ギリシャのオリンピアで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれた<ruby><rb>古代</rb><rt>こだい</rt></ruby>オリンピックにならって、フランスのクーベルタンの<ruby><rb>力</rb><rt>ちから</rt></ruby>で、一八九六<ruby><rb>年</rb><rt>ねん</rt></ruby>にギリシャのアテネで<ruby><rb>開</rb><rt>ひら</rt></ruby>かれたのが、<ruby><rb>近代</rb><rt>きんだい</rt></ruby>オリンピックの<ruby><rb>始</rb><rt>はじ</rt></ruby>まり。<ruby><rb>五輪</rb><rt>ごりん</rt></ruby>。",
+          "hyouki": [
+            "オリンピック"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>国会議員</rb><rt>こっかいぎいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まって、<ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>り、<ruby><rb>政治</rb><rt>せいじ</rt></ruby>のやり<ruby><rb>方</rb><rt>かた</rt></ruby>を<ruby><rb>相談</rb><rt>そうだん</rt></ruby>して<ruby><rb>決</rb><rt>き</rt></ruby>める<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>。<ruby><rb>衆議院</rb><rt>しゅうぎいん</rt></ruby>と<ruby><rb>参議院</rb><rt>さんぎいん</rt></ruby>とがある。",
+          "hyouki": [
+            "国会"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>選挙</rb><rt>せんきょ</rt></ruby>で<ruby><rb>選</rb><rt>えら</rt></ruby>ばれ、<ruby><rb>国会</rb><rt>こっかい</rt></ruby>や<ruby><rb>地方</rb><rt>ちほう</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>で、<ruby><rb>政治</rb><rt>せいじ</rt></ruby>に<ruby><rb>関</rb><rt>かん</rt></ruby>することをいろいろ<ruby><rb>相談</rb><rt>そうだん</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>国会議員</rb><rt>こっかいぎいん</rt></ruby>・<ruby><rb>県議会議員</rb><rt>けんぎかいぎいん</rt></ruby>など。",
+          "hyouki": [
+            "議員"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。",
+          "hyouki": [
+            "グループ"
+          ]
+        }
+      ]
+    }
+  }
+}

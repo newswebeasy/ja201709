@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011157911000.mp3", 
+  "title": "サウジアラビア　女性が車を運転できるようにする", 
+  "news_prearranged_time": "2017-09-27 16:00:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": false, 
+  "outline_with_ruby": "<p><ruby>世界<rt>せかい</rt></ruby>でサウジアラビアだけは、<ruby>女性<rt>じょせい</rt></ruby>が<ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>してはいけないことになっています。", 
+  "news_web_movie_uri": "k10011157911_201709271224_201709271236.mp4", 
+  "title_with_ruby": "サウジアラビア　<ruby>女性<rt>じょせい</rt></ruby>が<ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>できるようにする", 
+  "news_id": "k10011157911000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "3", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170927/../20170927/K10011157911_1709270903_1709270903_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}

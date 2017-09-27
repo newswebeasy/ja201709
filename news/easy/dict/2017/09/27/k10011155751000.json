@@ -1,0 +1,90 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>銀色</rb><rt>ぎんいろ</rt></ruby>で<ruby><rb>重</rb><rt>おも</rt></ruby>い<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>。<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>で<ruby><rb>水銀</rb><rt>すいぎん</rt></ruby>だけがふつうの<ruby><rb>温度</rb><rt>おんど</rt></ruby>で<ruby><rb>液体</rb><rt>えきたい</rt></ruby>である。<ruby><rb>温度</rb><rt>おんど</rt></ruby>の<ruby><rb>変化</rb><rt>へんか</rt></ruby>で、<ruby><rb>体積</rb><rt>たいせき</rt></ruby>が<ruby><rb>規則</rb><rt>きそく</rt></ruby><ruby><rb>正</rb><rt>ただ</rt></ruby>しく<ruby><rb>変化</rb><rt>へんか</rt></ruby>するので、<ruby><rb>温度計</rb><rt>おんどけい</rt></ruby>などに<ruby><rb>使</rb><rt>つか</rt></ruby>われる。",
+          "hyouki": [
+            "水銀"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>貧困</rb><rt>ひんこん</rt></ruby>・<ruby><rb>飢餓</rb><rt>きが</rt></ruby>・<ruby><rb>難民</rb><rt>なんみん</rt></ruby>・<ruby><rb>環境</rb><rt>かんきょう</rt></ruby>などの<ruby><rb>問題</rb><rt>もんだい</rt></ruby>に<ruby><rb>国境</rb><rt>こっきょう</rt></ruby>をこえて<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>組</rb><rt>く</rt></ruby>む、<ruby><rb>民間</rb><rt>みんかん</rt></ruby>の<ruby><rb>援助団体</rb><rt>えんじょだんたい</rt></ruby>のこと。",
+          "hyouki": [
+            "NGO"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "アジアの<ruby><rb>南東部</rb><rt>なんとうぶ</rt></ruby>。ベトナム・ラオス・カンボジア・マレーシア・タイ・ミャンマー・インドネシア・フィリピンなどの<ruby><rb>国</rb><rt>くに</rt></ruby>がある。",
+          "hyouki": [
+            "東南アジア"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ものごとを<ruby><rb>比</rb><rt>くら</rt></ruby>べるとき、そのもととなるよりどころ。<ruby><rb>標準</rb><rt>ひょうじゅん</rt></ruby>。",
+          "hyouki": [
+            "基準"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>頭</rb><rt>あたま</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にあって、<ruby><rb>考</rb><rt>かんが</rt></ruby>えたり<ruby><rb>体</rb><rt>からだ</rt></ruby>を<ruby><rb>動</rb><rt>うご</rt></ruby>かしたりするはたらきを<ruby><rb>受</rb><rt>う</rt></ruby>け<ruby><rb>持</rb><rt>も</rt></ruby>つところ。",
+          "hyouki": [
+            "脳"
+          ]
+        },
+        {
+          "def": "<ruby><rb>頭</rb><rt>あたま</rt></ruby>のはたらき。",
+          "hyouki": [
+            "脳"
+          ]
+        },
+        {
+          "def": "<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>となる<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "脳"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>血液</rb><rt>けつえき</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>から<ruby><rb>尿</rb><rt>にょう</rt></ruby>になるものを<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>出</rb><rt>だ</rt></ruby>し、ぼうこうに<ruby><rb>送</rb><rt>おく</rt></ruby>るはたらきをする<ruby><rb>器官</rb><rt>きかん</rt></ruby>。<ruby><rb>腹</rb><rt>はら</rt></ruby>の<ruby><rb>後</rb><rt>うし</rt></ruby>ろ、<ruby><rb>背骨</rb><rt>せぼね</rt></ruby>の<ruby><rb>両側</rb><rt>りょうがわ</rt></ruby>に<ruby><rb>一</rb><rt>ひと</rt></ruby>つずつある。",
+          "hyouki": [
+            "腎臓"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "あるものごとが、ほかのものごとに<ruby><rb>力</rb><rt>ちから</rt></ruby>をおよぼして、そのようすを<ruby><rb>変</rb><rt>か</rt></ruby>えること。",
+          "hyouki": [
+            "影響"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。",
+          "hyouki": [
+            "可能性"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "アジア・オーストラリア・<ruby><rb>南北</rb><rt>なんぼく</rt></ruby>アメリカ・<ruby><rb>南極</rb><rt>なんきょく</rt></ruby>の<ruby><rb>五</rb><rt>いつ</rt></ruby>つの<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>に<ruby><rb>囲</rb><rt>かこ</rt></ruby>まれた、<ruby><rb>世界</rb><rt>せかい</rt></ruby>でいちばん<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>海</rb><rt>うみ</rt></ruby>。",
+          "hyouki": [
+            "太平洋"
+          ]
+        }
+      ]
+    }
+  }
+}

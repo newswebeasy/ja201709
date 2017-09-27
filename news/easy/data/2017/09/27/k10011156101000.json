@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011156101000.mp3", 
+  "title": "東京オリンピックが始まる日などを祝日にする案", 
+  "news_prearranged_time": "2017-09-27 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p>２０２０<ruby>年<rt>ねん</rt></ruby>に<ruby>東京<rt>とうきょう</rt></ruby>で<a href='javascript:void(0)' class='dicWin' id='id-0002'>オリンピック</a>を<ruby>開<rt>ひら</rt></ruby>くときは、<ruby>日本<rt>にっぽん</rt></ruby>や<ruby>外国<rt>がいこく</rt></ruby>から<ruby>多<rt>おお</rt></ruby>くの<ruby>人<rt>ひと</rt></ruby>が<ruby>東京<rt>とうきょう</rt></ruby>に<ruby>来<rt>き</rt></ruby>ます。", 
+  "news_web_movie_uri": "k10011156101_201709260752_201709260753.mp4", 
+  "title_with_ruby": "<ruby>東京<rt>とうきょう</rt></ruby>オリンピックが<ruby>始<rt>はじ</rt></ruby>まる<ruby>日<rt>ひ</rt></ruby>などを<ruby>祝日<rt>しゅくじつ</rt></ruby>にする<ruby>案<rt>あん</rt></ruby>", 
+  "news_id": "k10011156101000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "5", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170926/../20170926/K10011156101_1709260752_1709260753_01_03.jpg", 
+  "news_easy_movie_uri": "''"
+}

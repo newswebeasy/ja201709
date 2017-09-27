@@ -1,0 +1,98 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>歩行者</rb><rt>ほこうしゃ</rt></ruby>がどの<ruby><rb>方向</rb><rt>ほうこう</rt></ruby>にも<ruby><rb>自由</rb><rt>じゆう</rt></ruby>に<ruby><rb>横断</rb><rt>おうだん</rt></ruby>できるように、<ruby><rb>信号</rb><rt>しんごう</rt></ruby>ですべての<ruby><rb>車</rb><rt>くるま</rt></ruby>を<ruby><rb>止</rb><rt>と</rt></ruby>めるようにした<ruby><rb>交差点</rb><rt>こうさてん</rt></ruby>。スクランブル。",
+          "hyouki": [
+            "スクランブル交差点"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。",
+          "hyouki": [
+            "人気"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>速</rb><rt>はや</rt></ruby>さ。<ruby><rb>速力</rb><rt>そくりょく</rt></ruby>。",
+          "hyouki": [
+            "スピード"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>英語</rb><rt>えいご</rt></ruby>のパトロールカーの<ruby><rb>略。</rb><rt>りゃく</rt></ruby><ruby><rb>見回</rb><rt>みまわ</rt></ruby>りをしたり<ruby><rb>事件</rb><rt>じけん</rt></ruby>の<ruby><rb>現場</rb><rt>げんば</rt></ruby>に<ruby><rb>急</rb><rt>いそ</rt></ruby>いだりするのに<ruby><rb>使</rb><rt>つか</rt></ruby>う、<ruby><rb>警察</rb><rt>けいさつ</rt></ruby>の<ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>。",
+          "hyouki": [
+            "パトカー"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>先</rb><rt>さき</rt></ruby>に<ruby><rb>進</rb><rt>すす</rt></ruby>む<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>所</rb><rt>ところ</rt></ruby>へ、<ruby><rb>行</rb><rt>い</rt></ruby>き<ruby><rb>着</rb><rt>つ</rt></ruby>こうとする。",
+          "hyouki": [
+            "追う"
+          ]
+        },
+        {
+          "def": "<ruby><rb>無理</rb><rt>むり</rt></ruby>にほかの<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>へ<ruby><rb>行</rb><rt>い</rt></ruby>かせる。",
+          "hyouki": [
+            "追う"
+          ]
+        },
+        {
+          "def": "<ruby><rb>順序</rb><rt>じゅんじょ</rt></ruby>に<ruby><rb>従</rb><rt>したが</rt></ruby>って<ruby><rb>進</rb><rt>すす</rt></ruby>む。",
+          "hyouki": [
+            "追う"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>先</rb><rt>さき</rt></ruby>に<ruby><rb>進</rb><rt>すす</rt></ruby>む<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>所</rb><rt>ところ</rt></ruby>へ、<ruby><rb>行</rb><rt>い</rt></ruby>き<ruby><rb>着</rb><rt>つ</rt></ruby>こうとする。",
+          "hyouki": [
+            "追う"
+          ]
+        },
+        {
+          "def": "<ruby><rb>無理</rb><rt>むり</rt></ruby>にほかの<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>へ<ruby><rb>行</rb><rt>い</rt></ruby>かせる。",
+          "hyouki": [
+            "追う"
+          ]
+        },
+        {
+          "def": "<ruby><rb>順序</rb><rt>じゅんじょ</rt></ruby>に<ruby><rb>従</rb><rt>したが</rt></ruby>って<ruby><rb>進</rb><rt>すす</rt></ruby>む。",
+          "hyouki": [
+            "追う"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>先</rb><rt>さき</rt></ruby>に<ruby><rb>進</rb><rt>すす</rt></ruby>む<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>所</rb><rt>ところ</rt></ruby>へ、<ruby><rb>行</rb><rt>い</rt></ruby>き<ruby><rb>着</rb><rt>つ</rt></ruby>こうとする。",
+          "hyouki": [
+            "追う"
+          ]
+        },
+        {
+          "def": "<ruby><rb>無理</rb><rt>むり</rt></ruby>にほかの<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>へ<ruby><rb>行</rb><rt>い</rt></ruby>かせる。",
+          "hyouki": [
+            "追う"
+          ]
+        },
+        {
+          "def": "<ruby><rb>順序</rb><rt>じゅんじょ</rt></ruby>に<ruby><rb>従</rb><rt>したが</rt></ruby>って<ruby><rb>進</rb><rt>すす</rt></ruby>む。",
+          "hyouki": [
+            "追う"
+          ]
+        }
+      ]
+    }
+  }
+}
