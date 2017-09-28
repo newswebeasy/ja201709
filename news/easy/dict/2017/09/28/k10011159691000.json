@@ -1,0 +1,74 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>参議院</rb><rt>さんぎいん</rt></ruby>とともに<ruby><rb>国会</rb><rt>こっかい</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>っている<ruby><rb>仕組</rb><rt>しく</rt></ruby>みの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>や<ruby><rb>予算</rb><rt>よさん</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>める<ruby><rb>上</rb><rt>うえ</rt></ruby>で、<ruby><rb>参議院</rb><rt>さんぎいん</rt></ruby>より<ruby><rb>大</rb><rt>おお</rt></ruby>きい<ruby><rb>権限</rb><rt>けんげん</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>つ。<ruby><rb>解散</rb><rt>かいさん</rt></ruby>することがある。",
+          "hyouki": [
+            "衆議院"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>集</rb><rt>あつ</rt></ruby>まっていた<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>別</rb><rt>わか</rt></ruby>れること。",
+          "hyouki": [
+            "解散"
+          ]
+        },
+        {
+          "def": "<ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>や<ruby><rb>団体</rb><rt>だんたい</rt></ruby>などが<ruby><rb>活動</rb><rt>かつどう</rt></ruby>をやめること。",
+          "hyouki": [
+            "解散"
+          ]
+        },
+        {
+          "def": "<ruby><rb>衆議院</rb><rt>しゅうぎいん</rt></ruby>で、<ruby><rb>議員</rb><rt>ぎいん</rt></ruby>の<ruby><rb>資格</rb><rt>しかく</rt></ruby>を<ruby><rb>解</rb><rt>と</rt></ruby>いて、<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>を<ruby><rb>閉</rb><rt>と</rt></ruby>じること。",
+          "hyouki": [
+            "解散"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "ある<ruby><rb>役目</rb><rt>やくめ</rt></ruby>につく<ruby><rb>人</rb><rt>ひと</rt></ruby>を、<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>から<ruby><rb>選</rb><rt>えら</rt></ruby>ぶこと。",
+          "hyouki": [
+            "選挙"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>選挙</rb><rt>せんきょ</rt></ruby>や<ruby><rb>採決</rb><rt>さいけつ</rt></ruby>で、<ruby><rb>選</rb><rt>えら</rt></ruby>びたい<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>名前</rb><rt>なまえ</rt></ruby>や、<ruby><rb>賛成</rb><rt>さんせい</rt></ruby>か<ruby><rb>反対</rb><rt>はんたい</rt></ruby>かを、<ruby><rb>紙</rb><rt>かみ</rt></ruby>に<ruby><rb>書</rb><rt>か</rt></ruby>いて<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。",
+          "hyouki": [
+            "投票"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>選挙</rb><rt>せんきょ</rt></ruby>で<ruby><rb>選</rb><rt>えら</rt></ruby>ばれ、<ruby><rb>国会</rb><rt>こっかい</rt></ruby>や<ruby><rb>地方</rb><rt>ちほう</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>で、<ruby><rb>政治</rb><rt>せいじ</rt></ruby>に<ruby><rb>関</rb><rt>かん</rt></ruby>することをいろいろ<ruby><rb>相談</rb><rt>そうだん</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>国会議員</rb><rt>こっかいぎいん</rt></ruby>・<ruby><rb>県議会議員</rb><rt>けんぎかいぎいん</rt></ruby>など。",
+          "hyouki": [
+            "議員"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>国会議員</rb><rt>こっかいぎいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まって、<ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>り、<ruby><rb>政治</rb><rt>せいじ</rt></ruby>のやり<ruby><rb>方</rb><rt>かた</rt></ruby>を<ruby><rb>相談</rb><rt>そうだん</rt></ruby>して<ruby><rb>決</rb><rt>き</rt></ruby>める<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>。<ruby><rb>衆議院</rb><rt>しゅうぎいん</rt></ruby>と<ruby><rb>参議院</rb><rt>さんぎいん</rt></ruby>とがある。",
+          "hyouki": [
+            "国会"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>少</rb><rt>すく</rt></ruby>なくする。",
+          "hyouki": [
+            "減らす"
+          ]
+        }
+      ]
+    }
+  }
+}

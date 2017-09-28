@@ -1,0 +1,21 @@
+{
+  "news_file_ver": false, 
+  "news_easy_voice_uri": "k10011156961000.mp3", 
+  "title": "東京の新宿区に「草間彌生美術館」ができる", 
+  "news_prearranged_time": "2017-09-28 11:30:00", 
+  "news_easy_image_uri": "''", 
+  "has_news_easy_image": false, 
+  "news_publication_status": true, 
+  "outline_with_ruby": "<p>８８<ruby>歳<rt>さい</rt></ruby>の<ruby>草間彌生<rt>くさまやよい</rt></ruby>さんは<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>水玉<rt>みずたま</rt></ruby></a>の<ruby>絵<rt>え</rt></ruby>などが<ruby>有名<rt>ゆうめい</rt></ruby>な<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>芸術家<rt>げいじゅつか</rt></ruby></a>で、<ruby>世界<rt>せかい</rt></ruby>でも<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>人気<rt>にんき</rt></ruby></a>があります。", 
+  "news_web_movie_uri": "k10011156961_201709261807_201709261810.mp4", 
+  "title_with_ruby": "<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>新宿区<rt>しんじゅくく</rt></ruby>に「<ruby>草間彌生美術館<rt>くさまやよいびじゅつかん</rt></ruby>」ができる", 
+  "news_id": "k10011156961000", 
+  "has_news_easy_movie": false, 
+  "has_news_web_movie": true, 
+  "top_display_flag": true, 
+  "top_priority_number": "5", 
+  "has_news_web_image": true, 
+  "has_news_easy_voice": true, 
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20170926/../20170926/K10011156961_1709261632_1709261634_01_02.jpg", 
+  "news_easy_movie_uri": "''"
+}

@@ -1,0 +1,102 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>丸</rb><rt>まる</rt></ruby>く<ruby><rb>玉</rb><rt>たま</rt></ruby>になった<ruby><rb>水</rb><rt>みず</rt></ruby>のしずく。",
+          "hyouki": [
+            "水玉"
+          ]
+        },
+        {
+          "def": "<ruby><rb>小</rb><rt>ちい</rt></ruby>さい<ruby><rb>円</rb><rt>えん</rt></ruby>を<ruby><rb>散</rb><rt>ち</rt></ruby>らしたような<ruby><rb>模様</rb><rt>もよう</rt></ruby>。<ruby><rb>水玉</rb><rt>みずたま</rt></ruby><ruby><rb>模様</rb><rt>もよう</rt></ruby>。",
+          "hyouki": [
+            "水玉"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>芸術</rb><rt>げいじゅつ</rt></ruby>を<ruby><rb>仕事</rb><rt>しごと</rt></ruby>としている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>音楽家</rb><rt>おんがくか</rt></ruby>や<ruby><rb>画家</rb><rt>がか</rt></ruby>など。",
+          "hyouki": [
+            "芸術家"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。",
+          "hyouki": [
+            "人気"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "かざりにする<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>絵</rb><rt>え</rt></ruby>。",
+          "hyouki": [
+            "模様"
+          ]
+        },
+        {
+          "def": "ようす。ありさま。",
+          "hyouki": [
+            "模様"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>開</rb><rt>ひら</rt></ruby>くこと。<ruby><rb>開場</rb><rt>かいじょう</rt></ruby>。",
+          "hyouki": [
+            "オープン"
+          ]
+        },
+        {
+          "def": "かくしだてをしないようす。",
+          "hyouki": [
+            "オープン"
+          ]
+        },
+        {
+          "def": "おおわれていない。<ruby><rb>公式</rb><rt>こうしき</rt></ruby>でない。",
+          "hyouki": [
+            "オープン"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>畑</rb><rt>はたけ</rt></ruby>に<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>野菜</rb><rt>やさい</rt></ruby>。<ruby><rb>夏</rb><rt>なつ</rt></ruby>に<ruby><rb>黄色</rb><rt>きいろ</rt></ruby>の<ruby><rb>花</rb><rt>はな</rt></ruby>が<ruby><rb>咲</rb><rt>さ</rt></ruby>き、<ruby><rb>秋</rb><rt>あき</rt></ruby>に<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>実</rb><rt>み</rt></ruby>がなる。とうなす。",
+          "hyouki": [
+            "南瓜"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>金</rb><rt>きん</rt></ruby>のように<ruby><rb>黄色</rb><rt>きいろ</rt></ruby>く<ruby><rb>光</rb><rt>ひか</rt></ruby>っている<ruby><rb>色</rb><rt>いろ</rt></ruby>。",
+          "hyouki": [
+            "金色"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "もも<ruby><rb>色</rb><rt>いろ</rt></ruby>。うすい<ruby><rb>赤色</rb><rt>あかいろ</rt></ruby>。",
+          "hyouki": [
+            "ピンク"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>作</rb><rt>つく</rt></ruby>ったもの。<ruby><rb>文学</rb><rt>ぶんがく</rt></ruby>・<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>・<ruby><rb>美術</rb><rt>びじゅつ</rt></ruby>などで、<ruby><rb>作者</rb><rt>さくしゃ</rt></ruby>が<ruby><rb>創造</rb><rt>そうぞう</rt></ruby>したもの。",
+          "hyouki": [
+            "作品"
+          ]
+        }
+      ]
+    }
+  }
+}
