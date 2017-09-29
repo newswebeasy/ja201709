@@ -1,0 +1,104 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>銀色</rb><rt>ぎんいろ</rt></ruby>で<ruby><rb>重</rb><rt>おも</rt></ruby>い<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>。<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>で<ruby><rb>水銀</rb><rt>すいぎん</rt></ruby>だけがふつうの<ruby><rb>温度</rb><rt>おんど</rt></ruby>で<ruby><rb>液体</rb><rt>えきたい</rt></ruby>である。<ruby><rb>温度</rb><rt>おんど</rt></ruby>の<ruby><rb>変化</rb><rt>へんか</rt></ruby>で、<ruby><rb>体積</rb><rt>たいせき</rt></ruby>が<ruby><rb>規則</rb><rt>きそく</rt></ruby><ruby><rb>正</rb><rt>ただ</rt></ruby>しく<ruby><rb>変化</rb><rt>へんか</rt></ruby>するので、<ruby><rb>温度計</rb><rt>おんどけい</rt></ruby>などに<ruby><rb>使</rb><rt>つか</rt></ruby>われる。",
+          "hyouki": [
+            "水銀"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>体</rb><rt>からだ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>がっている<ruby><rb>糸</rb><rt>いと</rt></ruby>のような<ruby><rb>細胞</rb><rt>さいぼう</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。しげきを<ruby><rb>脳</rb><rt>のう</rt></ruby>に<ruby><rb>知</rb><rt>し</rt></ruby>らせたり、<ruby><rb>脳</rb><rt>のう</rt></ruby>の<ruby><rb>命令</rb><rt>めいれい</rt></ruby>を<ruby><rb>手足</rb><rt>てあし</rt></ruby>に<ruby><rb>伝</rb><rt>つた</rt></ruby>えたりする。",
+          "hyouki": [
+            "神経"
+          ]
+        },
+        {
+          "def": "<ruby><rb>心</rb><rt>こころ</rt></ruby>のはたらき。",
+          "hyouki": [
+            "神経"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "しびれて、<ruby><rb>感</rb><rt>かん</rt></ruby>じがなくなること。",
+          "hyouki": [
+            "麻痺"
+          ]
+        },
+        {
+          "def": "はたらきがにぶること。",
+          "hyouki": [
+            "麻痺"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>第二次世界大戦</rb><rt>だいにじせかいたいせん</rt></ruby>が<ruby><rb>終</rb><rt>お</rt></ruby>わった１９４５<ruby><rb>年</rb><rt>ねん</rt></ruby>、<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>平和</rb><rt>へいわ</rt></ruby>と<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>るために<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>本部</rb><rt>ほんぶ</rt></ruby>はアメリカのニューヨークにある。<ruby><rb>国連</rb><rt>こくれん</rt></ruby>。<ruby><rb>UN</rb><rt>ユーエヌ</rt></ruby>。",
+          "hyouki": [
+            "国際連合"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>出発</rb><rt>しゅっぱつ</rt></ruby>。",
+          "hyouki": [
+            "スタート"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>と<ruby><rb>国</rb><rt>くに</rt></ruby>との<ruby><rb>間</rb><rt>あいだ</rt></ruby>で<ruby><rb>決</rb><rt>き</rt></ruby>め、<ruby><rb>文章</rb><rt>ぶんしょう</rt></ruby>に<ruby><rb>書</rb><rt>か</rt></ruby>いた<ruby><rb>約束</rb><rt>やくそく</rt></ruby>。",
+          "hyouki": [
+            "条約"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "ほめるときや、<ruby><rb>賛成</rb><rt>さんせい</rt></ruby>のときなどに、<ruby><rb>手</rb><rt>て</rt></ruby>のひらを<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>合</rb><rt>あ</rt></ruby>わせて<ruby><rb>音</rb><rt>おと</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。",
+          "hyouki": [
+            "拍手"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。",
+          "hyouki": [
+            "政府"
+          ]
+        },
+        {
+          "def": "<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。",
+          "hyouki": [
+            "政府"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "（<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>気持</rb><rt>きも</rt></ruby>ちが）がまんできないほど<ruby><rb>苦</rb><rt>くる</rt></ruby>しい。",
+          "hyouki": [
+            "つらい"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>損害</rb><rt>そんがい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けること。また、<ruby><rb>受</rb><rt>う</rt></ruby>けた<ruby><rb>害</rb><rt>がい</rt></ruby>。",
+          "hyouki": [
+            "被害"
+          ]
+        }
+      ]
+    }
+  }
+}

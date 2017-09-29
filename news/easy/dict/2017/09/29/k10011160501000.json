@@ -1,0 +1,130 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>電気</rb><rt>でんき</rt></ruby>を<ruby><rb>通</rb><rt>とお</rt></ruby>しやすいものと<ruby><rb>通</rb><rt>とお</rt></ruby>しにくいものの、<ruby><rb>中間</rb><rt>ちゅうかん</rt></ruby>の<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>物質</rb><rt>ぶっしつ</rt></ruby>。シリコンやゲルマニウムなど。トランジスターなどに<ruby><rb>使</rb><rt>つか</rt></ruby>われる。",
+          "hyouki": [
+            "半導体"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>約束</rb><rt>やくそく</rt></ruby>をすること。<ruby><rb>特</rb><rt>とく</rt></ruby>に、<ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>にもとづいて<ruby><rb>約束</rb><rt>やくそく</rt></ruby>すること。",
+          "hyouki": [
+            "契約"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "お<ruby><rb>金</rb><rt>かね</rt></ruby>を<ruby><rb>借</rb><rt>か</rt></ruby>りること。また、<ruby><rb>借</rb><rt>か</rt></ruby>りたお<ruby><rb>金</rb><rt>かね</rt></ruby>。",
+          "hyouki": [
+            "借金"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "もうけるために、<ruby><rb>事業</rb><rt>じぎょう</rt></ruby>に、<ruby><rb>元手</rb><rt>もとで</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。",
+          "hyouki": [
+            "投資"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>一億</rb><rt>いちおく</rt></ruby>の<ruby><rb>一万倍</rb><rt>いちまんばい</rt></ruby>。",
+          "hyouki": [
+            "兆"
+          ]
+        },
+        {
+          "def": "しるし。<ruby><rb>前</rb><rt>まえ</rt></ruby>ぶれ。",
+          "hyouki": [
+            "兆"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。",
+          "hyouki": [
+            "グループ"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>真</rb><rt>ま</rt></ruby>ん<ruby><rb>中</rb><rt>なか</rt></ruby>。",
+          "hyouki": [
+            "中心"
+          ]
+        },
+        {
+          "def": "ものごとのいちばんだいじなところ。",
+          "hyouki": [
+            "中心"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>事業</rb><rt>じぎょう</rt></ruby>をやっていくこと。",
+          "hyouki": [
+            "経営"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>や<ruby><rb>社会</rb><rt>しゃかい</rt></ruby>などの<ruby><rb>決</rb><rt>き</rt></ruby>まりで<ruby><rb>認</rb><rt>みと</rt></ruby>められている<ruby><rb>利益</rb><rt>りえき</rt></ruby>。",
+          "hyouki": [
+            "権利"
+          ]
+        },
+        {
+          "def": "あるものごとをすることのできる<ruby><rb>資格</rb><rt>しかく</rt></ruby>。",
+          "hyouki": [
+            "権利"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>裁判所</rb><rt>さいばんしょ</rt></ruby>が、<ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>にもとづいて、それがよいか<ruby><rb>悪</rb><rt>わる</rt></ruby>いかを<ruby><rb>決</rb><rt>き</rt></ruby>めること。",
+          "hyouki": [
+            "裁判"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>裁判所</rb><rt>さいばんしょ</rt></ruby>に<ruby><rb>願</rb><rt>ねが</rt></ruby>い<ruby><rb>出</rb><rt>で</rt></ruby>て、よい<ruby><rb>悪</rb><rt>わる</rt></ruby>いを<ruby><rb>決</rb><rt>き</rt></ruby>めてもらう。",
+          "hyouki": [
+            "訴える"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>心</rb><rt>こころ</rt></ruby>によびかける。",
+          "hyouki": [
+            "訴える"
+          ]
+        },
+        {
+          "def": "<ruby><rb>不平</rb><rt>ふへい</rt></ruby>や<ruby><rb>痛</rb><rt>いた</rt></ruby>みなどを<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>言</rb><rt>い</rt></ruby>う。",
+          "hyouki": [
+            "訴える"
+          ]
+        },
+        {
+          "def": "あるやり<ruby><rb>方</rb><rt>かた</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>う。",
+          "hyouki": [
+            "訴える"
+          ]
+        }
+      ]
+    }
+  }
+}

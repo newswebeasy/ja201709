@@ -1,0 +1,150 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>野</rb><rt>の</rt></ruby>や<ruby><rb>山</rb><rt>やま</rt></ruby>にテントを<ruby><rb>張</rb><rt>は</rt></ruby>って<ruby><rb>生活</rb><rt>せいかつ</rt></ruby>すること。",
+          "hyouki": [
+            "キャンプ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>運動</rb><rt>うんどう</rt></ruby>の<ruby><rb>練習</rb><rt>れんしゅう</rt></ruby>のための<ruby><rb>合宿</rb><rt>がっしゅく</rt></ruby>。",
+          "hyouki": [
+            "キャンプ"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>のときには、<ruby><rb>中立</rb><rt>ちゅうりつ</rt></ruby>の<ruby><rb>立場</rb><rt>たちば</rt></ruby>で、けが<ruby><rb>人</rb><rt>にん</rt></ruby>の<ruby><rb>手当</rb><rt>てあ</rt></ruby>てをし、<ruby><rb>平和</rb><rt>へいわ</rt></ruby>なときは、<ruby><rb>病気</rb><rt>びょうき</rt></ruby>の<ruby><rb>治療</rb><rt>ちりょう</rt></ruby>や<ruby><rb>災害</rb><rt>さいがい</rt></ruby>の<ruby><rb>救護</rb><rt>きゅうご</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>う<ruby><rb>国際的</rb><rt>こくさいてき</rt></ruby>な<ruby><rb>組織</rb><rt>そしき</rt></ruby>。<ruby><rb>本部</rb><rt>ほんぶ</rt></ruby>は、スイスのジュネーブにある。<ruby><rb>赤十字社</rb><rt>せきじゅうじしゃ</rt></ruby>。",
+          "hyouki": [
+            "赤十字"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>元気</rb><rt>げんき</rt></ruby>よく<ruby><rb>動</rb><rt>うご</rt></ruby>いたり、<ruby><rb>働</rb><rt>はたら</rt></ruby>いたりすること。",
+          "hyouki": [
+            "活動"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>七世紀</rb><rt>ななせいき</rt></ruby><ruby><rb>初</rb><rt>はじ</rt></ruby>め、アラビアでムハンマドが<ruby><rb>始</rb><rt>はじ</rt></ruby>めた、<ruby><rb>唯一</rb><rt>ゆいいつ</rt></ruby>の<ruby><rb>神</rb><rt>かみ</rt></ruby>アッラーを<ruby><rb>信</rb><rt>しん</rt></ruby>じる<ruby><rb>宗教</rb><rt>しゅうきょう</rt></ruby>。<ruby><rb>回教</rb><rt>かいきょう</rt></ruby>。",
+          "hyouki": [
+            "イスラム教"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "ほんとうだと<ruby><rb>心</rb><rt>こころ</rt></ruby>から<ruby><rb>思</rb><rt>おも</rt></ruby>う。",
+          "hyouki": [
+            "信じる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>神</rb><rt>かみ</rt></ruby>や、<ruby><rb>仏</rb><rt>ほとけ</rt></ruby>を<ruby><rb>信仰</rb><rt>しんこう</rt></ruby>する。",
+          "hyouki": [
+            "信じる"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。",
+          "hyouki": [
+            "グループ"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>。<ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "軍"
+          ]
+        },
+        {
+          "def": "<ruby><rb>戦</rb><rt>たたか</rt></ruby>い。<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>。",
+          "hyouki": [
+            "軍"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>戦</rb><rt>たたか</rt></ruby>うこと。<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>。<ruby><rb>争</rb><rt>あらそ</rt></ruby>い。",
+          "hyouki": [
+            "戦い"
+          ]
+        },
+        {
+          "def": "<ruby><rb>試合</rb><rt>しあい</rt></ruby>。",
+          "hyouki": [
+            "戦い"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>第二次世界大戦</rb><rt>だいにじせかいたいせん</rt></ruby>が<ruby><rb>終</rb><rt>お</rt></ruby>わった１９４５<ruby><rb>年</rb><rt>ねん</rt></ruby>、<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>平和</rb><rt>へいわ</rt></ruby>と<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>るために<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>本部</rb><rt>ほんぶ</rt></ruby>はアメリカのニューヨークにある。<ruby><rb>国連</rb><rt>こくれん</rt></ruby>。<ruby><rb>UN</rb><rt>ユーエヌ</rt></ruby>。",
+          "hyouki": [
+            "国際連合"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>医者</rb><rt>いしゃ</rt></ruby>の<ruby><rb>手助</rb><rt>てだす</rt></ruby>けや、<ruby><rb>病人</rb><rt>びょうにん</rt></ruby>の<ruby><rb>世話</rb><rt>せわ</rt></ruby>を<ruby><rb>仕事</rb><rt>しごと</rt></ruby>にしている<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "看護師"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "おなかをこわして、<ruby><rb>水</rb><rt>みず</rt></ruby>けの<ruby><rb>多</rb><rt>おお</rt></ruby>い<ruby><rb>大便</rb><rt>だいべん</rt></ruby>が<ruby><rb>出</rb><rt>で</rt></ruby>ること。<ruby><rb>腹</rb><rt>はら</rt></ruby>くだし。",
+          "hyouki": [
+            "下痢"
+          ]
+        }
+      ],
+      "0012": [
+        {
+          "def": "とつぜん。にわかに。",
+          "hyouki": [
+            "急に"
+          ]
+        }
+      ],
+      "0013": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>入</rb><rt>い</rt></ruby>れかわること。かわり<ruby><rb>合</rb><rt>あ</rt></ruby>うこと。",
+          "hyouki": [
+            "交代・",
+            "交替"
+          ]
+        }
+      ],
+      "0014": [
+        {
+          "def": "<ruby><rb>体</rb><rt>からだ</rt></ruby>のようすを<ruby><rb>調</rb><rt>しら</rt></ruby>べる。<ruby><rb>診察</rb><rt>しんさつ</rt></ruby>する。",
+          "hyouki": [
+            "診る"
+          ]
+        }
+      ]    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>が<ruby><rb>速</rb><rt>はや</rt></ruby>く<ruby><rb>走</rb><rt>はし</rt></ruby>れるように、<ruby><rb>立体交差</rb><rt>りったいこうさ</rt></ruby>にしたり、<ruby><rb>上</rb><rt>のぼ</rt></ruby>り<ruby><rb>下</rb><rt>くだ</rt></ruby>りを<ruby><rb>分</rb><rt>わ</rt></ruby>けたりした<ruby><rb>道路</rb><rt>どうろ</rt></ruby>。ハイウエー。",
+          "hyouki": [
+            "高速道路"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>貸</rb><rt>か</rt></ruby>し<ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>。",
+          "hyouki": [
+            "レンタカー"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>のためにつくすこと。",
+          "hyouki": [
+            "サービス"
+          ]
+        },
+        {
+          "def": "<ruby><rb>客</rb><rt>きゃく</rt></ruby>をもてなすこと。<ruby><rb>奉仕</rb><rt>ほうし</rt></ruby>。",
+          "hyouki": [
+            "サービス"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>望</rb><rt>のぞ</rt></ruby>みを、<ruby><rb>相手</rb><rt>あいて</rt></ruby>に<ruby><rb>伝</rb><rt>つた</rt></ruby>える。<ruby><rb>申</rb><rt>もう</rt></ruby>し<ruby><rb>入</rb><rt>い</rt></ruby>れる。",
+          "hyouki": [
+            "申し込む"
+          ]
+        }
+      ]
+    }
+  }
+}
